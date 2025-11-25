@@ -1,0 +1,8 @@
+C:\INFINITE-Oct2025\C#\Assesments\25-11-25-Assessment\bin\Debug\25-11-25-Assessment.exe.config
+C:\INFINITE-Oct2025\C#\Assesments\25-11-25-Assessment\bin\Debug\25-11-25-Assessment.exe
+C:\INFINITE-Oct2025\C#\Assesments\25-11-25-Assessment\bin\Debug\25-11-25-Assessment.pdb
+C:\INFINITE-Oct2025\C#\Assesments\25-11-25-Assessment\obj\Debug\25-11-25-Assessment.csproj.AssemblyReference.cache
+C:\INFINITE-Oct2025\C#\Assesments\25-11-25-Assessment\obj\Debug\25-11-25-Assessment.csproj.CoreCompileInputs.cache
+C:\INFINITE-Oct2025\C#\Assesments\25-11-25-Assessment\obj\Debug\25-11-25-Assessment.exe
+C:\INFINITE-Oct2025\C#\Assesments\25-11-25-Assessment\obj\Debug\25-11-25-Assessment.pdb
+C:\INFINITE-Oct2025\C#\Assesments\25-11-25-Assessment\obj\Debug\25-11-25-Assessment.exe.config
