@@ -1,0 +1,8 @@
+C:\C#\Practice\05-11-2025\bin\Debug\05-11-2025.exe.config
+C:\C#\Practice\05-11-2025\bin\Debug\05-11-2025.exe
+C:\C#\Practice\05-11-2025\bin\Debug\05-11-2025.pdb
+C:\C#\Practice\05-11-2025\obj\Debug\05-11-2025.csproj.AssemblyReference.cache
+C:\C#\Practice\05-11-2025\obj\Debug\05-11-2025.csproj.CoreCompileInputs.cache
+C:\C#\Practice\05-11-2025\obj\Debug\05-11-2025.exe
+C:\C#\Practice\05-11-2025\obj\Debug\05-11-2025.pdb
+C:\C#\Practice\05-11-2025\obj\Debug\05-11-2025.exe.config

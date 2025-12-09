@@ -1,0 +1,8 @@
+C:\C#\Assignments\GrocceryBillApp\bin\Debug\GrocceryBillApp.exe.config
+C:\C#\Assignments\GrocceryBillApp\bin\Debug\GrocceryBillApp.exe
+C:\C#\Assignments\GrocceryBillApp\bin\Debug\GrocceryBillApp.pdb
+C:\C#\Assignments\GrocceryBillApp\obj\Debug\GrocceryBillApp.csproj.AssemblyReference.cache
+C:\C#\Assignments\GrocceryBillApp\obj\Debug\GrocceryBillApp.csproj.CoreCompileInputs.cache
+C:\C#\Assignments\GrocceryBillApp\obj\Debug\GrocceryBillApp.exe
+C:\C#\Assignments\GrocceryBillApp\obj\Debug\GrocceryBillApp.pdb
+C:\C#\Assignments\GrocceryBillApp\obj\Debug\GrocceryBillApp.exe.config

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\C#\\Assesments\\25-11-25-Assessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7212F8D9-5DB4-4971-ABA4-7929AF56DE28}|25-11-25-Assessment.csproj|c:\\infinite-oct2025\\c#\\assesments\\25-11-25-assessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7212F8D9-5DB4-4971-ABA4-7929AF56DE28}|25-11-25-Assessment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212F8D9-5DB4-4971-ABA4-7929AF56DE28}|25-11-25-Assessment.csproj|c:\\infinite-oct2025\\c#\\assesments\\25-11-25-assessment\\mockemployeedatareader .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7212F8D9-5DB4-4971-ABA4-7929AF56DE28}|25-11-25-Assessment.csproj|solutionrelative:mockemployeedatareader .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212F8D9-5DB4-4971-ABA4-7929AF56DE28}|25-11-25-Assessment.csproj|c:\\infinite-oct2025\\c#\\assesments\\25-11-25-assessment\\payrollprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7212F8D9-5DB4-4971-ABA4-7929AF56DE28}|25-11-25-Assessment.csproj|solutionrelative:payrollprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212F8D9-5DB4-4971-ABA4-7929AF56DE28}|25-11-25-Assessment.csproj|c:\\infinite-oct2025\\c#\\assesments\\25-11-25-assessment\\iemployeedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7212F8D9-5DB4-4971-ABA4-7929AF56DE28}|25-11-25-Assessment.csproj|solutionrelative:iemployeedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212F8D9-5DB4-4971-ABA4-7929AF56DE28}|25-11-25-Assessment.csproj|c:\\infinite-oct2025\\c#\\assesments\\25-11-25-assessment\\employeerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7212F8D9-5DB4-4971-ABA4-7929AF56DE28}|25-11-25-Assessment.csproj|solutionrelative:employeerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PayrollProcessor.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assesments\\25-11-25-Assessment\\PayrollProcessor.cs",
+              "RelativeDocumentMoniker": "PayrollProcessor.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assesments\\25-11-25-Assessment\\PayrollProcessor.cs",
+              "RelativeToolTip": "PayrollProcessor.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:31:39.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MockEmployeeDataReader .cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assesments\\25-11-25-Assessment\\MockEmployeeDataReader .cs",
+              "RelativeDocumentMoniker": "MockEmployeeDataReader .cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assesments\\25-11-25-Assessment\\MockEmployeeDataReader .cs",
+              "RelativeToolTip": "MockEmployeeDataReader .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:30:51.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeDataReader.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assesments\\25-11-25-Assessment\\IEmployeeDataReader.cs",
+              "RelativeDocumentMoniker": "IEmployeeDataReader.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assesments\\25-11-25-Assessment\\IEmployeeDataReader.cs",
+              "RelativeToolTip": "IEmployeeDataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:30:12.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRecord.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assesments\\25-11-25-Assessment\\EmployeeRecord.cs",
+              "RelativeDocumentMoniker": "EmployeeRecord.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assesments\\25-11-25-Assessment\\EmployeeRecord.cs",
+              "RelativeToolTip": "EmployeeRecord.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:29:15.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assesments\\25-11-25-Assessment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assesments\\25-11-25-Assessment\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:28:21.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

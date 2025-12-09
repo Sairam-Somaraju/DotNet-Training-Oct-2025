@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\C#\\Assignments\\11-11-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E90E13E2-B746-4D04-AFAF-C0C78F8E00EC}|11-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\11-11-25\\minibankingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90E13E2-B746-4D04-AFAF-C0C78F8E00EC}|11-11-25.csproj|solutionrelative:minibankingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiniBankingSystem.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\11-11-25\\MiniBankingSystem.cs",
+              "RelativeDocumentMoniker": "MiniBankingSystem.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\11-11-25\\MiniBankingSystem.cs",
+              "RelativeToolTip": "MiniBankingSystem.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA6wFIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:33:43.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

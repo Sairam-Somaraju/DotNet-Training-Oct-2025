@@ -1,0 +1,7 @@
+C:\C#\Assignments\31-10-2025\bin\Debug\31-10-2025.exe.config
+C:\C#\Assignments\31-10-2025\bin\Debug\31-10-2025.exe
+C:\C#\Assignments\31-10-2025\bin\Debug\31-10-2025.pdb
+C:\C#\Assignments\31-10-2025\obj\Debug\31-10-2025.csproj.AssemblyReference.cache
+C:\C#\Assignments\31-10-2025\obj\Debug\31-10-2025.csproj.CoreCompileInputs.cache
+C:\C#\Assignments\31-10-2025\obj\Debug\31-10-2025.exe
+C:\C#\Assignments\31-10-2025\obj\Debug\31-10-2025.pdb

@@ -1,0 +1,13 @@
+C:\INFINITE-Oct2025\C#\Assignments\ServerApp2\bin\Debug\ServerApp2.exe.config
+C:\INFINITE-Oct2025\C#\Assignments\ServerApp2\bin\Debug\ServerApp2.exe
+C:\INFINITE-Oct2025\C#\Assignments\ServerApp2\bin\Debug\ServerApp2.pdb
+C:\INFINITE-Oct2025\C#\Assignments\ServerApp2\bin\Debug\remotinglib2.dll
+C:\INFINITE-Oct2025\C#\Assignments\ServerApp2\bin\Debug\remotingtrn1.dll
+C:\INFINITE-Oct2025\C#\Assignments\ServerApp2\bin\Debug\remotinglib2.pdb
+C:\INFINITE-Oct2025\C#\Assignments\ServerApp2\bin\Debug\remotingtrn1.pdb
+C:\INFINITE-Oct2025\C#\Assignments\ServerApp2\obj\Debug\ServerApp2.csproj.AssemblyReference.cache
+C:\INFINITE-Oct2025\C#\Assignments\ServerApp2\obj\Debug\ServerApp2.csproj.CoreCompileInputs.cache
+C:\INFINITE-Oct2025\C#\Assignments\ServerApp2\obj\Debug\ServerApp2.csproj.Up2Date
+C:\INFINITE-Oct2025\C#\Assignments\ServerApp2\obj\Debug\ServerApp2.exe
+C:\INFINITE-Oct2025\C#\Assignments\ServerApp2\obj\Debug\ServerApp2.pdb
+C:\INFINITE-Oct2025\C#\Assignments\ServerApp2\obj\Debug\ServerApp2.exe.config

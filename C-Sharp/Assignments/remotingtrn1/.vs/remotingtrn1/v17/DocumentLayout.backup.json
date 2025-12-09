@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\C#\\Assignments\\remotingtrn1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58545CFB-B5D0-4907-ADBB-27233831E85E}|..\\remotinglib2\\remotinglib2.csproj|c:\\infinite-oct2025\\c#\\assignments\\remotinglib2\\serviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D2E2CF-6396-481E-9DA0-39119A19515A}|remotingtrn2.csproj|c:\\infinite-oct2025\\c#\\assignments\\remotingtrn1\\imyinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D2E2CF-6396-481E-9DA0-39119A19515A}|remotingtrn2.csproj|solutionrelative:imyinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20309FAF-43FF-46B1-A1B2-CA1F4CB741DC}|..\\ServerApp2\\ServerApp2.csproj|c:\\infinite-oct2025\\c#\\assignments\\serverapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26704F6-49B2-452E-A87A-E5F6E0B261A4}|..\\ClientApp2\\ClientApp2.csproj|c:\\infinite-oct2025\\c#\\assignments\\clientapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\ServerApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ServerApp2\\Program.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\ServerApp2\\Program.cs",
+              "RelativeToolTip": "..\\ServerApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:39:03.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\ClientApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ClientApp2\\Program.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\ClientApp2\\Program.cs",
+              "RelativeToolTip": "..\\ClientApp2\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:38:36.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceClass.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\remotinglib2\\ServiceClass.cs",
+              "RelativeDocumentMoniker": "..\\remotinglib2\\ServiceClass.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\remotinglib2\\ServiceClass.cs",
+              "RelativeToolTip": "..\\remotinglib2\\ServiceClass.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:38:11.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMyinter.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\remotingtrn1\\IMyinter.cs",
+              "RelativeDocumentMoniker": "IMyinter.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\remotingtrn1\\IMyinter.cs",
+              "RelativeToolTip": "IMyinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:34:12.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

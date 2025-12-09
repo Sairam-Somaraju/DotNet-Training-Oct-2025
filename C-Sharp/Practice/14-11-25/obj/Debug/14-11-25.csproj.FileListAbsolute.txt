@@ -1,0 +1,11 @@
+C:\INFINITE-Oct2025\C#\Practice\14-11-25\bin\Debug\14-11-25.exe.config
+C:\INFINITE-Oct2025\C#\Practice\14-11-25\bin\Debug\14-11-25.exe
+C:\INFINITE-Oct2025\C#\Practice\14-11-25\bin\Debug\14-11-25.pdb
+C:\INFINITE-Oct2025\C#\Practice\14-11-25\obj\Debug\14-11-25.csproj.AssemblyReference.cache
+C:\INFINITE-Oct2025\C#\Practice\14-11-25\obj\Debug\_14_11_25.LoginForm.resources
+C:\INFINITE-Oct2025\C#\Practice\14-11-25\obj\Debug\_14_11_25.Properties.Resources.resources
+C:\INFINITE-Oct2025\C#\Practice\14-11-25\obj\Debug\14-11-25.csproj.GenerateResource.cache
+C:\INFINITE-Oct2025\C#\Practice\14-11-25\obj\Debug\14-11-25.csproj.CoreCompileInputs.cache
+C:\INFINITE-Oct2025\C#\Practice\14-11-25\obj\Debug\14-11-25.exe
+C:\INFINITE-Oct2025\C#\Practice\14-11-25\obj\Debug\14-11-25.pdb
+C:\INFINITE-Oct2025\C#\Practice\14-11-25\obj\Debug\14-11-25.exe.config

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\Practice\\04-11-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAD2313-4AC8-43F9-A585-95D2DBC99DC5}|04-11-25.csproj|c:\\c#\\practice\\04-11-25\\departmentconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAD2313-4AC8-43F9-A585-95D2DBC99DC5}|04-11-25.csproj|solutionrelative:departmentconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAD2313-4AC8-43F9-A585-95D2DBC99DC5}|04-11-25.csproj|c:\\c#\\practice\\04-11-25\\defaultconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAD2313-4AC8-43F9-A585-95D2DBC99DC5}|04-11-25.csproj|solutionrelative:defaultconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentConstructor.cs",
+              "DocumentMoniker": "C:\\C#\\Practice\\04-11-25\\DepartmentConstructor.cs",
+              "RelativeDocumentMoniker": "DepartmentConstructor.cs",
+              "ToolTip": "C:\\C#\\Practice\\04-11-25\\DepartmentConstructor.cs",
+              "RelativeToolTip": "DepartmentConstructor.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:23:08.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DefaultConstructor.cs",
+              "DocumentMoniker": "C:\\C#\\Practice\\04-11-25\\DefaultConstructor.cs",
+              "RelativeDocumentMoniker": "DefaultConstructor.cs",
+              "ToolTip": "C:\\C#\\Practice\\04-11-25\\DefaultConstructor.cs",
+              "RelativeToolTip": "DefaultConstructor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:21:52.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

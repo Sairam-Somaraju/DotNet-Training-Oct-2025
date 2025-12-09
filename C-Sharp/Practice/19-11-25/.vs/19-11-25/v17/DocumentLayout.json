@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\19-11-25\\demo8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|solutionrelative:demo8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\19-11-25\\demo7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|solutionrelative:demo7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\19-11-25\\demo6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|solutionrelative:demo6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\19-11-25\\demo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|solutionrelative:demo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\19-11-25\\demo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|solutionrelative:demo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\19-11-25\\demo5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|solutionrelative:demo5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\19-11-25\\demo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|solutionrelative:demo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\19-11-25\\demo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892A91AA-E8A4-40BD-8BC7-D0FC3C23948E}|19-11-25.csproj|solutionrelative:demo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo8.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo8.cs",
+              "RelativeDocumentMoniker": "Demo8.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo8.cs",
+              "RelativeToolTip": "Demo8.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:18:33.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo7.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo7.cs",
+              "RelativeDocumentMoniker": "Demo7.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo7.cs",
+              "RelativeToolTip": "Demo7.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:02:24.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo6.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo6.cs",
+              "RelativeDocumentMoniker": "Demo6.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo6.cs",
+              "RelativeToolTip": "Demo6.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:41:39.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Demo5.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo5.cs",
+              "RelativeDocumentMoniker": "Demo5.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo5.cs",
+              "RelativeToolTip": "Demo5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T06:30:43.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Demo4.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo4.cs",
+              "RelativeDocumentMoniker": "Demo4.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo4.cs",
+              "RelativeToolTip": "Demo4.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T06:12:01.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Demo3.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo3.cs",
+              "RelativeDocumentMoniker": "Demo3.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo3.cs",
+              "RelativeToolTip": "Demo3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T05:54:54.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Demo2.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo2.cs",
+              "RelativeDocumentMoniker": "Demo2.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo2.cs",
+              "RelativeToolTip": "Demo2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T05:49:02.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Demo1.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo1.cs",
+              "RelativeDocumentMoniker": "Demo1.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\19-11-25\\Demo1.cs",
+              "RelativeToolTip": "Demo1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAMwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T05:34:16.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

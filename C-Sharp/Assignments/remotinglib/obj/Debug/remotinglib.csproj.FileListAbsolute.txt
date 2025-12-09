@@ -1,0 +1,9 @@
+C:\INFINITE-Oct2025\C#\Assignments\remotinglib\bin\Debug\remotinglib.dll
+C:\INFINITE-Oct2025\C#\Assignments\remotinglib\bin\Debug\remotinglib.pdb
+C:\INFINITE-Oct2025\C#\Assignments\remotinglib\bin\Debug\remotingtrn.dll
+C:\INFINITE-Oct2025\C#\Assignments\remotinglib\bin\Debug\remotingtrn.pdb
+C:\INFINITE-Oct2025\C#\Assignments\remotinglib\obj\Debug\remotinglib.csproj.AssemblyReference.cache
+C:\INFINITE-Oct2025\C#\Assignments\remotinglib\obj\Debug\remotinglib.csproj.CoreCompileInputs.cache
+C:\INFINITE-Oct2025\C#\Assignments\remotinglib\obj\Debug\remoting.14136229.Up2Date
+C:\INFINITE-Oct2025\C#\Assignments\remotinglib\obj\Debug\remotinglib.dll
+C:\INFINITE-Oct2025\C#\Assignments\remotinglib\obj\Debug\remotinglib.pdb

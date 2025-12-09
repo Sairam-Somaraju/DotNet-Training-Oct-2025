@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\C#\\Practice\\21-11-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16D9530D-FDC4-4D2F-B6FB-E0CB11A70E23}|21-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\21-11-25\\gamecharactermainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D9530D-FDC4-4D2F-B6FB-E0CB11A70E23}|21-11-25.csproj|solutionrelative:gamecharactermainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D9530D-FDC4-4D2F-B6FB-E0CB11A70E23}|21-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\21-11-25\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D9530D-FDC4-4D2F-B6FB-E0CB11A70E23}|21-11-25.csproj|solutionrelative:logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D9530D-FDC4-4D2F-B6FB-E0CB11A70E23}|21-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\21-11-25\\loggermainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D9530D-FDC4-4D2F-B6FB-E0CB11A70E23}|21-11-25.csproj|solutionrelative:loggermainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D9530D-FDC4-4D2F-B6FB-E0CB11A70E23}|21-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\21-11-25\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D9530D-FDC4-4D2F-B6FB-E0CB11A70E23}|21-11-25.csproj|solutionrelative:inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D9530D-FDC4-4D2F-B6FB-E0CB11A70E23}|21-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\21-11-25\\inotificationmainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D9530D-FDC4-4D2F-B6FB-E0CB11A70E23}|21-11-25.csproj|solutionrelative:inotificationmainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameCharacterMainMethod.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\21-11-25\\GameCharacterMainMethod.cs",
+              "RelativeDocumentMoniker": "GameCharacterMainMethod.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\21-11-25\\GameCharacterMainMethod.cs",
+              "RelativeToolTip": "GameCharacterMainMethod.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:31:20.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggerMainMethod.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\21-11-25\\LoggerMainMethod.cs",
+              "RelativeDocumentMoniker": "LoggerMainMethod.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\21-11-25\\LoggerMainMethod.cs",
+              "RelativeToolTip": "LoggerMainMethod.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:26:19.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\21-11-25\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\21-11-25\\Logger.cs",
+              "RelativeToolTip": "Logger.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:25:27.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\21-11-25\\INotification.cs",
+              "RelativeDocumentMoniker": "INotification.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\21-11-25\\INotification.cs",
+              "RelativeToolTip": "INotification.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:22:44.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotificationMainMethod.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\21-11-25\\INotificationMainMethod.cs",
+              "RelativeDocumentMoniker": "INotificationMainMethod.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\21-11-25\\INotificationMainMethod.cs",
+              "RelativeToolTip": "INotificationMainMethod.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:24:31.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

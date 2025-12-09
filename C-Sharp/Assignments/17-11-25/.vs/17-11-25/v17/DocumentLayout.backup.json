@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\C#\\Assignments\\17-11-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BB727E-03BF-4582-82E0-37D3BF0BE066}|Day1-17-11-25.csproj|C:\\INFINITE-Oct2025\\C#\\Assignments\\17-11-25\\checkuppercaseornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BB727E-03BF-4582-82E0-37D3BF0BE066}|Day1-17-11-25.csproj|solutionrelative:checkuppercaseornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BB727E-03BF-4582-82E0-37D3BF0BE066}|Day1-17-11-25.csproj|C:\\INFINITE-Oct2025\\C#\\Assignments\\17-11-25\\sumofsquares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BB727E-03BF-4582-82E0-37D3BF0BE066}|Day1-17-11-25.csproj|solutionrelative:sumofsquares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BB727E-03BF-4582-82E0-37D3BF0BE066}|Day1-17-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\17-11-25\\printnumbersusingthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BB727E-03BF-4582-82E0-37D3BF0BE066}|Day1-17-11-25.csproj|solutionrelative:printnumbersusingthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BB727E-03BF-4582-82E0-37D3BF0BE066}|Day1-17-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\17-11-25\\randomintegers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BB727E-03BF-4582-82E0-37D3BF0BE066}|Day1-17-11-25.csproj|solutionrelative:randomintegers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BB727E-03BF-4582-82E0-37D3BF0BE066}|Day1-17-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\17-11-25\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BB727E-03BF-4582-82E0-37D3BF0BE066}|Day1-17-11-25.csproj|solutionrelative:factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BB727E-03BF-4582-82E0-37D3BF0BE066}|Day1-17-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\17-11-25\\studentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BB727E-03BF-4582-82E0-37D3BF0BE066}|Day1-17-11-25.csproj|solutionrelative:studentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\17-11-25\\Factorial.cs",
+              "RelativeDocumentMoniker": "Factorial.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\17-11-25\\Factorial.cs",
+              "RelativeToolTip": "Factorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:13:47.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RandomIntegers.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\17-11-25\\RandomIntegers.cs",
+              "RelativeDocumentMoniker": "RandomIntegers.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\17-11-25\\RandomIntegers.cs",
+              "RelativeToolTip": "RandomIntegers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:56:44.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrintNumbersUsingThread.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\17-11-25\\PrintNumbersUsingThread.cs",
+              "RelativeDocumentMoniker": "PrintNumbersUsingThread.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\17-11-25\\PrintNumbersUsingThread.cs",
+              "RelativeToolTip": "PrintNumbersUsingThread.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAhwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:47:13.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SumofSquares.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\17-11-25\\SumofSquares.cs",
+              "RelativeDocumentMoniker": "SumofSquares.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\17-11-25\\SumofSquares.cs",
+              "RelativeToolTip": "SumofSquares.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:35:26.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckUpperCaseOrNot.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\17-11-25\\CheckUpperCaseOrNot.cs",
+              "RelativeDocumentMoniker": "CheckUpperCaseOrNot.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\17-11-25\\CheckUpperCaseOrNot.cs",
+              "RelativeToolTip": "CheckUpperCaseOrNot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:11:29.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentPartial.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\17-11-25\\StudentPartial.cs",
+              "RelativeDocumentMoniker": "StudentPartial.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\17-11-25\\StudentPartial.cs",
+              "RelativeToolTip": "StudentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:00:10.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

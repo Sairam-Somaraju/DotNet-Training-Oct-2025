@@ -1,0 +1,8 @@
+C:\C#\Assignments\04-11-25\bin\Debug\04-11-25.exe.config
+C:\C#\Assignments\04-11-25\bin\Debug\04-11-25.exe
+C:\C#\Assignments\04-11-25\bin\Debug\04-11-25.pdb
+C:\C#\Assignments\04-11-25\obj\Debug\04-11-25.csproj.AssemblyReference.cache
+C:\C#\Assignments\04-11-25\obj\Debug\04-11-25.csproj.CoreCompileInputs.cache
+C:\C#\Assignments\04-11-25\obj\Debug\04-11-25.exe
+C:\C#\Assignments\04-11-25\obj\Debug\04-11-25.pdb
+C:\C#\Assignments\04-11-25\obj\Debug\04-11-25.exe.config

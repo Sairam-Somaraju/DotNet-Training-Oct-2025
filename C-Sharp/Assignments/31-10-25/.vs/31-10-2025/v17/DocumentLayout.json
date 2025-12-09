@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\C#\\Assignments\\31-10-2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBC64F2-08A2-4657-BF91-0CAD1C7218A1}|31-10-2025.csproj|c:\\infinite-oct2025\\c#\\assignments\\31-10-2025\\restarauntbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBC64F2-08A2-4657-BF91-0CAD1C7218A1}|31-10-2025.csproj|solutionrelative:restarauntbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBC64F2-08A2-4657-BF91-0CAD1C7218A1}|31-10-2025.csproj|C:\\INFINITE-Oct2025\\C#\\Assignments\\31-10-2025\\movieticketssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBC64F2-08A2-4657-BF91-0CAD1C7218A1}|31-10-2025.csproj|solutionrelative:movieticketssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBC64F2-08A2-4657-BF91-0CAD1C7218A1}|31-10-2025.csproj|C:\\INFINITE-Oct2025\\C#\\Assignments\\31-10-2025\\signalsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBC64F2-08A2-4657-BF91-0CAD1C7218A1}|31-10-2025.csproj|solutionrelative:signalsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBC64F2-08A2-4657-BF91-0CAD1C7218A1}|31-10-2025.csproj|C:\\INFINITE-Oct2025\\C#\\Assignments\\31-10-2025\\passwordchecking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBC64F2-08A2-4657-BF91-0CAD1C7218A1}|31-10-2025.csproj|solutionrelative:passwordchecking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestarauntBill.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\31-10-2025\\RestarauntBill.cs",
+              "RelativeDocumentMoniker": "RestarauntBill.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\31-10-2025\\RestarauntBill.cs",
+              "RelativeToolTip": "RestarauntBill.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA/wBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:03:57.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieTicketsSystem.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\31-10-2025\\MovieTicketsSystem.cs",
+              "RelativeDocumentMoniker": "MovieTicketsSystem.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\31-10-2025\\MovieTicketsSystem.cs",
+              "RelativeToolTip": "MovieTicketsSystem.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:02:57.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignalSystem.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\31-10-2025\\SignalSystem.cs",
+              "RelativeDocumentMoniker": "SignalSystem.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\31-10-2025\\SignalSystem.cs",
+              "RelativeToolTip": "SignalSystem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:02:04.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordChecking.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\31-10-2025\\PasswordChecking.cs",
+              "RelativeDocumentMoniker": "PasswordChecking.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\31-10-2025\\PasswordChecking.cs",
+              "RelativeToolTip": "PasswordChecking.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:49:30.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

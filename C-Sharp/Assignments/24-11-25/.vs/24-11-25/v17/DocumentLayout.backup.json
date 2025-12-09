@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\bankaccount9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:bankaccount9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\bankaccount8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:bankaccount8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\bankaccount7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:bankaccount7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\bankaccounttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:bankaccounttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\bankaccount5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:bankaccount5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\bankaccount6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:bankaccount6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\bankaccount4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:bankaccount4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\bankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:bankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\bankaccountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:bankaccountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\mathhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:mathhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\testingasynchronous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:testingasynchronous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\studentmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:studentmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\nunitframework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:nunitframework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\stringhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:stringhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\set\u0026teardown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:set\u0026teardown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|c:\\infinite-oct2025\\c#\\assignments\\24-11-25\\collectionassertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1170D2-8105-4118-B0D8-CB72B7480CD4}|24-11-25.csproj|solutionrelative:collectionassertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount9.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccount9.cs",
+              "RelativeDocumentMoniker": "BankAccount9.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccount9.cs",
+              "RelativeToolTip": "BankAccount9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:32:53.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount8.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccount8.cs",
+              "RelativeDocumentMoniker": "BankAccount8.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccount8.cs",
+              "RelativeToolTip": "BankAccount8.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:27:50.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount7.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccount7.cs",
+              "RelativeDocumentMoniker": "BankAccount7.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccount7.cs",
+              "RelativeToolTip": "BankAccount7.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:18:56.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BankAccount6.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccount6.cs",
+              "RelativeDocumentMoniker": "BankAccount6.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccount6.cs",
+              "RelativeToolTip": "BankAccount6.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:00:28.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankAccount5.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccount5.cs",
+              "RelativeDocumentMoniker": "BankAccount5.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccount5.cs",
+              "RelativeToolTip": "BankAccount5.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:50:34.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankAccount4.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccount4.cs",
+              "RelativeDocumentMoniker": "BankAccount4.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccount4.cs",
+              "RelativeToolTip": "BankAccount4.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:45:18.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankAccountService.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccountService.cs",
+              "RelativeDocumentMoniker": "BankAccountService.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccountService.cs",
+              "RelativeToolTip": "BankAccountService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswDIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:32:42.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BankAccountServices.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccountServices.cs",
+              "RelativeDocumentMoniker": "BankAccountServices.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccountServices.cs",
+              "RelativeToolTip": "BankAccountServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:23:59.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAccountTest.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccountTest.cs",
+              "RelativeDocumentMoniker": "BankAccountTest.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\BankAccountTest.cs",
+              "RelativeToolTip": "BankAccountTest.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA7wB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:01:59.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentMarks.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\StudentMarks.cs",
+              "RelativeDocumentMoniker": "StudentMarks.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\StudentMarks.cs",
+              "RelativeToolTip": "StudentMarks.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:47:52.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestingAsynchronous.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\TestingAsynchronous.cs",
+              "RelativeDocumentMoniker": "TestingAsynchronous.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\TestingAsynchronous.cs",
+              "RelativeToolTip": "TestingAsynchronous.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:32:17.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NUnitframework.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\NUnitframework.cs",
+              "RelativeDocumentMoniker": "NUnitframework.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\NUnitframework.cs",
+              "RelativeToolTip": "NUnitframework.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:46:15.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CollectionAssertion.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\CollectionAssertion.cs",
+              "RelativeDocumentMoniker": "CollectionAssertion.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\CollectionAssertion.cs",
+              "RelativeToolTip": "CollectionAssertion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:21:07.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Set\u0026Teardown.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\Set\u0026Teardown.cs",
+              "RelativeDocumentMoniker": "Set\u0026Teardown.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\Set\u0026Teardown.cs",
+              "RelativeToolTip": "Set\u0026Teardown.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:12:59.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentServiceTests.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\StudentServiceTests.cs",
+              "RelativeDocumentMoniker": "StudentServiceTests.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\StudentServiceTests.cs",
+              "RelativeToolTip": "StudentServiceTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:02:29.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MathHelperTests.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\MathHelperTests.cs",
+              "RelativeDocumentMoniker": "MathHelperTests.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\MathHelperTests.cs",
+              "RelativeToolTip": "MathHelperTests.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:49:18.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StringHelperTests.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\StringHelperTests.cs",
+              "RelativeDocumentMoniker": "StringHelperTests.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\StringHelperTests.cs",
+              "RelativeToolTip": "StringHelperTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:28:33.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CalculatorTests.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Assignments\\24-11-25\\CalculatorTests.cs",
+              "RelativeToolTip": "CalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:20:02.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

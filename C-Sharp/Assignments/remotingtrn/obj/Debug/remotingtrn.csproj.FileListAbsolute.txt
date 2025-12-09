@@ -1,0 +1,6 @@
+C:\INFINITE-Oct2025\C#\Assignments\remotingtrn\bin\Debug\remotingtrn.dll
+C:\INFINITE-Oct2025\C#\Assignments\remotingtrn\bin\Debug\remotingtrn.pdb
+C:\INFINITE-Oct2025\C#\Assignments\remotingtrn\obj\Debug\remotingtrn.csproj.AssemblyReference.cache
+C:\INFINITE-Oct2025\C#\Assignments\remotingtrn\obj\Debug\remotingtrn.csproj.CoreCompileInputs.cache
+C:\INFINITE-Oct2025\C#\Assignments\remotingtrn\obj\Debug\remotingtrn.dll
+C:\INFINITE-Oct2025\C#\Assignments\remotingtrn\obj\Debug\remotingtrn.pdb

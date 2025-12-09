@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\ispmainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|solutionrelative:ispmainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\ispmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|solutionrelative:ispmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\ispworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|solutionrelative:ispworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\interfacesforisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|solutionrelative:interfacesforisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\20-11-25\\diporderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|solutionrelative:diporderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\dipsqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|solutionrelative:dipsqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\permanentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|solutionrelative:permanentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\ibonuseligible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|solutionrelative:ibonuseligible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|solutionrelative:employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\dipinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|solutionrelative:dipinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|solutionrelative:srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|solutionrelative:ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|solutionrelative:contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\lspmainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB19A42-038D-4921-B04D-2F1C612B8034}|20-11-25.csproj|solutionrelative:lspmainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DIPSqlDatabase.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\DIPSqlDatabase.cs",
+              "RelativeDocumentMoniker": "DIPSqlDatabase.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\DIPSqlDatabase.cs",
+              "RelativeToolTip": "DIPSqlDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:44:26.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DIPOrderProcessor.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\DIPOrderProcessor.cs",
+              "RelativeDocumentMoniker": "DIPOrderProcessor.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\DIPOrderProcessor.cs",
+              "RelativeToolTip": "DIPOrderProcessor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:41:48.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DIPInterface.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\DIPInterface.cs",
+              "RelativeDocumentMoniker": "DIPInterface.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\DIPInterface.cs",
+              "RelativeToolTip": "DIPInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:36:19.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISPManager.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\ISPManager.cs",
+              "RelativeDocumentMoniker": "ISPManager.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\ISPManager.cs",
+              "RelativeToolTip": "ISPManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA/wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:57:10.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISPWorker.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\ISPWorker.cs",
+              "RelativeDocumentMoniker": "ISPWorker.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\ISPWorker.cs",
+              "RelativeToolTip": "ISPWorker.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:55:02.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterfacesForISP.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\InterfacesForISP.cs",
+              "RelativeDocumentMoniker": "InterfacesForISP.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\InterfacesForISP.cs",
+              "RelativeToolTip": "InterfacesForISP.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:54:27.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISPMainMethod.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\ISPMainMethod.cs",
+              "RelativeDocumentMoniker": "ISPMainMethod.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\ISPMainMethod.cs",
+              "RelativeToolTip": "ISPMainMethod.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:53:18.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LSPMainMethod.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\LSPMainMethod.cs",
+              "RelativeDocumentMoniker": "LSPMainMethod.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\LSPMainMethod.cs",
+              "RelativeToolTip": "LSPMainMethod.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:46:22.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContractEmployee.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\ContractEmployee.cs",
+              "RelativeDocumentMoniker": "ContractEmployee.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\ContractEmployee.cs",
+              "RelativeToolTip": "ContractEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:43:10.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PermanentEmployee.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\PermanentEmployee.cs",
+              "RelativeDocumentMoniker": "PermanentEmployee.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\PermanentEmployee.cs",
+              "RelativeToolTip": "PermanentEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:40:51.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBonusEligible.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\IBonusEligible.cs",
+              "RelativeDocumentMoniker": "IBonusEligible.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\IBonusEligible.cs",
+              "RelativeToolTip": "IBonusEligible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:40:10.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeBase.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\EmployeeBase.cs",
+              "RelativeDocumentMoniker": "EmployeeBase.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\EmployeeBase.cs",
+              "RelativeToolTip": "EmployeeBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:39:33.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OCP.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\OCP.cs",
+              "RelativeDocumentMoniker": "OCP.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\OCP.cs",
+              "RelativeToolTip": "OCP.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:11:16.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SRP.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\SRP.cs",
+              "RelativeDocumentMoniker": "SRP.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\20-11-25\\SRP.cs",
+              "RelativeToolTip": "SRP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:08:03.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

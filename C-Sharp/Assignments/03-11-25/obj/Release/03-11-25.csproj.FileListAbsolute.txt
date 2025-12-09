@@ -1,0 +1,8 @@
+C:\C#\Assignments\03-11-25\bin\Release\03-11-25.exe.config
+C:\C#\Assignments\03-11-25\bin\Release\03-11-25.exe
+C:\C#\Assignments\03-11-25\bin\Release\03-11-25.pdb
+C:\C#\Assignments\03-11-25\obj\Release\03-11-25.csproj.AssemblyReference.cache
+C:\C#\Assignments\03-11-25\obj\Release\03-11-25.csproj.CoreCompileInputs.cache
+C:\C#\Assignments\03-11-25\obj\Release\03-11-25.exe
+C:\C#\Assignments\03-11-25\obj\Release\03-11-25.pdb
+C:\C#\Assignments\03-11-25\obj\Release\03-11-25.exe.config

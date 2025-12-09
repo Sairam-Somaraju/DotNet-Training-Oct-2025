@@ -1,0 +1,9 @@
+Application started
+Log message number 1
+Application ended
+Application started
+Log message number 1
+Application ended
+Application started
+Log message number 1
+Application ended

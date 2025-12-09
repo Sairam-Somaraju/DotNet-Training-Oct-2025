@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\Practice\\05-11-2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A04F70-FF74-42C0-9F2C-2BF195E99A79}|05-11-2025.csproj|c:\\c#\\practice\\05-11-2025\\customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A04F70-FF74-42C0-9F2C-2BF195E99A79}|05-11-2025.csproj|solutionrelative:customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A04F70-FF74-42C0-9F2C-2BF195E99A79}|05-11-2025.csproj|C:\\C#\\Practice\\05-11-2025\\onlinebillingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A04F70-FF74-42C0-9F2C-2BF195E99A79}|05-11-2025.csproj|solutionrelative:onlinebillingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerInfo.cs",
+              "DocumentMoniker": "C:\\C#\\Practice\\05-11-2025\\CustomerInfo.cs",
+              "RelativeDocumentMoniker": "CustomerInfo.cs",
+              "ToolTip": "C:\\C#\\Practice\\05-11-2025\\CustomerInfo.cs",
+              "RelativeToolTip": "CustomerInfo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T04:35:01.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnlineBillingSystem.cs",
+              "DocumentMoniker": "C:\\C#\\Practice\\05-11-2025\\OnlineBillingSystem.cs",
+              "RelativeDocumentMoniker": "OnlineBillingSystem.cs",
+              "ToolTip": "C:\\C#\\Practice\\05-11-2025\\OnlineBillingSystem.cs",
+              "RelativeToolTip": "OnlineBillingSystem.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T04:28:57.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

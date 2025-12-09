@@ -1,0 +1,15 @@
+C:\INFINITE-Oct2025\C#\Practice\21-11-25\bin\Debug\21-11-25.exe.config
+C:\INFINITE-Oct2025\C#\Practice\21-11-25\bin\Debug\21-11-25.exe
+C:\INFINITE-Oct2025\C#\Practice\21-11-25\bin\Debug\21-11-25.pdb
+C:\INFINITE-Oct2025\C#\Practice\21-11-25\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\INFINITE-Oct2025\C#\Practice\21-11-25\bin\Debug\Unity.Abstractions.dll
+C:\INFINITE-Oct2025\C#\Practice\21-11-25\bin\Debug\Unity.Container.dll
+C:\INFINITE-Oct2025\C#\Practice\21-11-25\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\INFINITE-Oct2025\C#\Practice\21-11-25\bin\Debug\Unity.Abstractions.pdb
+C:\INFINITE-Oct2025\C#\Practice\21-11-25\bin\Debug\Unity.Container.pdb
+C:\INFINITE-Oct2025\C#\Practice\21-11-25\obj\Debug\21-11-25.csproj.AssemblyReference.cache
+C:\INFINITE-Oct2025\C#\Practice\21-11-25\obj\Debug\21-11-25.csproj.CoreCompileInputs.cache
+C:\INFINITE-Oct2025\C#\Practice\21-11-25\obj\Debug\21-11-25.csproj.Up2Date
+C:\INFINITE-Oct2025\C#\Practice\21-11-25\obj\Debug\21-11-25.exe
+C:\INFINITE-Oct2025\C#\Practice\21-11-25\obj\Debug\21-11-25.pdb
+C:\INFINITE-Oct2025\C#\Practice\21-11-25\obj\Debug\21-11-25.exe.config

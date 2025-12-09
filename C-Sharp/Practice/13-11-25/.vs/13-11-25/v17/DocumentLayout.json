@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\C#\\Practice\\13-11-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBAE24D6-C059-4932-B15B-15B2FAFD6D28}|13-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\13-11-25\\actiondelegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBAE24D6-C059-4932-B15B-15B2FAFD6D28}|13-11-25.csproj|solutionrelative:actiondelegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBAE24D6-C059-4932-B15B-15B2FAFD6D28}|13-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\13-11-25\\deletagedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBAE24D6-C059-4932-B15B-15B2FAFD6D28}|13-11-25.csproj|solutionrelative:deletagedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBAE24D6-C059-4932-B15B-15B2FAFD6D28}|13-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\13-11-25\\icomparerinterfacedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBAE24D6-C059-4932-B15B-15B2FAFD6D28}|13-11-25.csproj|solutionrelative:icomparerinterfacedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBAE24D6-C059-4932-B15B-15B2FAFD6D28}|13-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\13-11-25\\icomparableinterfacedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBAE24D6-C059-4932-B15B-15B2FAFD6D28}|13-11-25.csproj|solutionrelative:icomparableinterfacedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBAE24D6-C059-4932-B15B-15B2FAFD6D28}|13-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\13-11-25\\sortedlistdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBAE24D6-C059-4932-B15B-15B2FAFD6D28}|13-11-25.csproj|solutionrelative:sortedlistdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBAE24D6-C059-4932-B15B-15B2FAFD6D28}|13-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\13-11-25\\stackdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBAE24D6-C059-4932-B15B-15B2FAFD6D28}|13-11-25.csproj|solutionrelative:stackdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBAE24D6-C059-4932-B15B-15B2FAFD6D28}|13-11-25.csproj|c:\\infinite-oct2025\\c#\\practice\\13-11-25\\queuedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBAE24D6-C059-4932-B15B-15B2FAFD6D28}|13-11-25.csproj|solutionrelative:queuedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActionDelegateDemo.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\13-11-25\\ActionDelegateDemo.cs",
+              "RelativeDocumentMoniker": "ActionDelegateDemo.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\13-11-25\\ActionDelegateDemo.cs",
+              "RelativeToolTip": "ActionDelegateDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:22:33.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeletageDemo.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\13-11-25\\DeletageDemo.cs",
+              "RelativeDocumentMoniker": "DeletageDemo.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\13-11-25\\DeletageDemo.cs",
+              "RelativeToolTip": "DeletageDemo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:37:18.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IComparerInterfaceDemo.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\13-11-25\\IComparerInterfaceDemo.cs",
+              "RelativeDocumentMoniker": "IComparerInterfaceDemo.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\13-11-25\\IComparerInterfaceDemo.cs",
+              "RelativeToolTip": "IComparerInterfaceDemo.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:31:18.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IComparableInterfaceDemo.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\13-11-25\\IComparableInterfaceDemo.cs",
+              "RelativeDocumentMoniker": "IComparableInterfaceDemo.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\13-11-25\\IComparableInterfaceDemo.cs",
+              "RelativeToolTip": "IComparableInterfaceDemo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:48:55.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortedListDemo.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\13-11-25\\SortedListDemo.cs",
+              "RelativeDocumentMoniker": "SortedListDemo.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\13-11-25\\SortedListDemo.cs",
+              "RelativeToolTip": "SortedListDemo.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswE8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:01:52.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QueueDemo.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\13-11-25\\QueueDemo.cs",
+              "RelativeDocumentMoniker": "QueueDemo.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\13-11-25\\QueueDemo.cs",
+              "RelativeToolTip": "QueueDemo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:37:28.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StackDemo.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C#\\Practice\\13-11-25\\StackDemo.cs",
+              "RelativeDocumentMoniker": "StackDemo.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C#\\Practice\\13-11-25\\StackDemo.cs",
+              "RelativeToolTip": "StackDemo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:26:22.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
