@@ -1,0 +1,8 @@
+C:\INFINITE-Oct2025\C#\Practice\CRUDoperations\bin\Debug\CRUDoperations.exe.config
+C:\INFINITE-Oct2025\C#\Practice\CRUDoperations\bin\Debug\CRUDoperations.exe
+C:\INFINITE-Oct2025\C#\Practice\CRUDoperations\bin\Debug\CRUDoperations.pdb
+C:\INFINITE-Oct2025\C#\Practice\CRUDoperations\obj\Debug\CRUDoperations.csproj.AssemblyReference.cache
+C:\INFINITE-Oct2025\C#\Practice\CRUDoperations\obj\Debug\CRUDoperations.csproj.CoreCompileInputs.cache
+C:\INFINITE-Oct2025\C#\Practice\CRUDoperations\obj\Debug\CRUDoperations.exe
+C:\INFINITE-Oct2025\C#\Practice\CRUDoperations\obj\Debug\CRUDoperations.pdb
+C:\INFINITE-Oct2025\C#\Practice\CRUDoperations\obj\Debug\CRUDoperations.exe.config
