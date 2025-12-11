@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\11-12-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9852A4D9-5D0A-497A-9F58-612DEDCE101C}|11-12-25.csproj|c:\\infinite-oct2025\\ado.net\\practice\\11-12-25\\linqdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852A4D9-5D0A-497A-9F58-612DEDCE101C}|11-12-25.csproj|solutionrelative:linqdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852A4D9-5D0A-497A-9F58-612DEDCE101C}|11-12-25.csproj|c:\\infinite-oct2025\\ado.net\\practice\\11-12-25\\dept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852A4D9-5D0A-497A-9F58-612DEDCE101C}|11-12-25.csproj|solutionrelative:dept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852A4D9-5D0A-497A-9F58-612DEDCE101C}|11-12-25.csproj|c:\\infinite-oct2025\\ado.net\\practice\\11-12-25\\empdet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852A4D9-5D0A-497A-9F58-612DEDCE101C}|11-12-25.csproj|solutionrelative:empdet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dept.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\11-12-25\\dept.cs",
+              "RelativeDocumentMoniker": "dept.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\11-12-25\\dept.cs",
+              "RelativeToolTip": "dept.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:12:28.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "empdet.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\11-12-25\\empdet.cs",
+              "RelativeDocumentMoniker": "empdet.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\11-12-25\\empdet.cs",
+              "RelativeToolTip": "empdet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:12:13.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinqDemo.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\11-12-25\\LinqDemo.cs",
+              "RelativeDocumentMoniker": "LinqDemo.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\11-12-25\\LinqDemo.cs",
+              "RelativeToolTip": "LinqDemo.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:08:15.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
