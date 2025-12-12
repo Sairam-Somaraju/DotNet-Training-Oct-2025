@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\12-12-2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2952C044-63B7-4F7B-B0B3-D69B33D0A98C}|12-12-2025.csproj|c:\\infinite-oct2025\\ado.net\\practice\\12-12-2025\\entitymainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2952C044-63B7-4F7B-B0B3-D69B33D0A98C}|12-12-2025.csproj|solutionrelative:entitymainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2952C044-63B7-4F7B-B0B3-D69B33D0A98C}|12-12-2025.csproj|c:\\infinite-oct2025\\ado.net\\practice\\12-12-2025\\entityframeworkdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2952C044-63B7-4F7B-B0B3-D69B33D0A98C}|12-12-2025.csproj|solutionrelative:entityframeworkdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2952C044-63B7-4F7B-B0B3-D69B33D0A98C}|12-12-2025.csproj|c:\\infinite-oct2025\\ado.net\\practice\\12-12-2025\\entitydemo.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2952C044-63B7-4F7B-B0B3-D69B33D0A98C}|12-12-2025.csproj|solutionrelative:entitydemo.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2952C044-63B7-4F7B-B0B3-D69B33D0A98C}|12-12-2025.csproj|c:\\infinite-oct2025\\ado.net\\practice\\12-12-2025\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2952C044-63B7-4F7B-B0B3-D69B33D0A98C}|12-12-2025.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2952C044-63B7-4F7B-B0B3-D69B33D0A98C}|12-12-2025.csproj|c:\\infinite-oct2025\\ado.net\\practice\\12-12-2025\\entitydemo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2952C044-63B7-4F7B-B0B3-D69B33D0A98C}|12-12-2025.csproj|solutionrelative:entitydemo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntityMainMethod.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\12-12-2025\\EntityMainMethod.cs",
+              "RelativeDocumentMoniker": "EntityMainMethod.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\12-12-2025\\EntityMainMethod.cs",
+              "RelativeToolTip": "EntityMainMethod.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:16:09.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntityFrameworkDemo.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\12-12-2025\\EntityFrameworkDemo.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\12-12-2025\\EntityFrameworkDemo.cs",
+              "RelativeToolTip": "EntityFrameworkDemo.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwEYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:12:35.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntityDemo.Context.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\12-12-2025\\EntityDemo.Context.cs",
+              "RelativeDocumentMoniker": "EntityDemo.Context.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\12-12-2025\\EntityDemo.Context.cs",
+              "RelativeToolTip": "EntityDemo.Context.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:10:55.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\12-12-2025\\Department.cs",
+              "RelativeDocumentMoniker": "Department.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\12-12-2025\\Department.cs",
+              "RelativeToolTip": "Department.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:10:41.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityDemo.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\12-12-2025\\EntityDemo.edmx",
+              "RelativeDocumentMoniker": "EntityDemo.edmx",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\12-12-2025\\EntityDemo.edmx [Diagram1]",
+              "RelativeToolTip": "EntityDemo.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-12-12T07:08:11.301Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

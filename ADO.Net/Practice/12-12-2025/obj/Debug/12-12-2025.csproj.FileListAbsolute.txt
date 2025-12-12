@@ -1,0 +1,13 @@
+C:\INFINITE-Oct2025\ADO.Net\Practice\12-12-2025\obj\Debug\12-12-2025.csproj.AssemblyReference.cache
+C:\INFINITE-Oct2025\ADO.Net\Practice\12-12-2025\obj\Debug\12-12-2025.csproj.CoreCompileInputs.cache
+C:\INFINITE-Oct2025\ADO.Net\Practice\12-12-2025\bin\Debug\12-12-2025.exe.config
+C:\INFINITE-Oct2025\ADO.Net\Practice\12-12-2025\bin\Debug\12-12-2025.exe
+C:\INFINITE-Oct2025\ADO.Net\Practice\12-12-2025\bin\Debug\12-12-2025.pdb
+C:\INFINITE-Oct2025\ADO.Net\Practice\12-12-2025\bin\Debug\EntityFramework.dll
+C:\INFINITE-Oct2025\ADO.Net\Practice\12-12-2025\bin\Debug\EntityFramework.SqlServer.dll
+C:\INFINITE-Oct2025\ADO.Net\Practice\12-12-2025\bin\Debug\EntityFramework.xml
+C:\INFINITE-Oct2025\ADO.Net\Practice\12-12-2025\bin\Debug\EntityFramework.SqlServer.xml
+C:\INFINITE-Oct2025\ADO.Net\Practice\12-12-2025\obj\Debug\12-12-2025.csproj.Up2Date
+C:\INFINITE-Oct2025\ADO.Net\Practice\12-12-2025\obj\Debug\12-12-2025.exe
+C:\INFINITE-Oct2025\ADO.Net\Practice\12-12-2025\obj\Debug\12-12-2025.pdb
+C:\INFINITE-Oct2025\ADO.Net\Practice\12-12-2025\obj\Debug\12-12-2025.exe.config
