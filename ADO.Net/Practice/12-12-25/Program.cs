@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _12_12_25
+namespace _12_12_2025
 {
     internal class Program
     {
