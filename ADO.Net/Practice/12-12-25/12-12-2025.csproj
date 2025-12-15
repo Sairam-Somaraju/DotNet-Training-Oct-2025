@@ -83,6 +83,9 @@
     <Compile Include="EntityMainMethod.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="showbySal_Result.cs">
+      <DependentUpon>EntityDemo.tt</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

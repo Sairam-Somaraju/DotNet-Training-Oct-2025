@@ -12,6 +12,8 @@ namespace _12_12_2025
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
+    using System.Data.Entity.Core.Objects;
+    using System.Linq;
     
     public partial class ADOnetEntities1 : DbContext
     {
@@ -27,5 +29,14 @@ namespace _12_12_2025
     
         public virtual DbSet<Department> Departments { get; set; }
         public virtual DbSet<Employee> Employees { get; set; }
+    
+        public virtual ObjectResult<showbySal_Result> showbySal(Nullable<int> s)
+        {
+            var sParameter = s.HasValue ?
+                new ObjectParameter("s", s) :
+                new ObjectParameter("s", typeof(int));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<showbySal_Result>("showbySal", sParameter);
+        }
     }
 }

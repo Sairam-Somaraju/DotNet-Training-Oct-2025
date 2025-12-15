@@ -1,0 +1,16 @@
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\bin\Debug\15-12-25.exe.config
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\bin\Debug\15-12-25.exe
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\bin\Debug\15-12-25.pdb
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\bin\Debug\EntityFramework.dll
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\bin\Debug\EntityFramework.SqlServer.dll
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\bin\Debug\EntityFramework.xml
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\bin\Debug\EntityFramework.SqlServer.xml
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\obj\Debug\15-12-25.csproj.AssemblyReference.cache
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\obj\Debug\15-12-25.csproj.CoreCompileInputs.cache
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\obj\Debug\15-12-25.csproj.Up2Date
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\obj\Debug\15-12-25.exe
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\obj\Debug\15-12-25.pdb
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\obj\Debug\15-12-25.exe.config
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\obj\Debug\_15_12_25.Migrations.InitialCreate.resources
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\obj\Debug\15-12-25.csproj.GenerateResource.cache
+C:\INFINITE-Oct2025\ADO.Net\Practice\15-12-25\obj\Debug\_15_12_25.Migrations.InitialCreate1.resources

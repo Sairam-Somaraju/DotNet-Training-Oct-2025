@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -70,6 +71,30 @@ namespace _12_12_2025
             int i=ado.SaveChanges();
             Console.WriteLine("Updated the record");
         }
+        public void SqlQueryDemo()
+        {
+            var res = ado.Database.SqlQuery<Employee>("select * from Employee where EmpName like 'S%' ");
+            foreach (var e in res)
+            {
+                Console.WriteLine($"{e.EmpID} {e.EmpName} {e.DateOfJoin} {e.Salary} {e.DeptID}");
+                Console.WriteLine("================================================================");
+            }
+        }
 
+        public void DMLDemo()
+        {
+            int ra = ado.Database.ExecuteSqlCommand("delete from Employee  where EmpName like 'H%'");
+            Console.WriteLine("total records deleted "+ ra);
+        }
+        public void spDemo()
+        {
+            var res=ado.showbySal(64000);
+            foreach (var e in res)
+            {
+                Console.WriteLine($"{e.EmpID} {e.EmpName} {e.DateOfJoin} {e.Salary} {e.DeptID}");
+                Console.WriteLine("================================================================");
+            }
+        }
+       
     }
 }

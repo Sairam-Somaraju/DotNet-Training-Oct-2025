@@ -15,7 +15,10 @@ namespace _12_12_2025
             // demo1.SearchRecord();
             //demo1.AddRecord();
             //  demo1.DeleteRecord();
-            demo1.UpdateRecord();
+            //demo1.UpdateRecord();
+           // demo1.SqlQueryDemo();
+           // demo1.DMLDemo();
+           demo1.spDemo();
             Console.ReadLine();
         }
     }

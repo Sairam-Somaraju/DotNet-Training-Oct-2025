@@ -29,6 +29,9 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
+  <Function Name="showbySal" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="s" Type="int" Mode="In" />
+  </Function>
   <EntityContainer Name="ADOnetModelStoreContainer">
     <EntitySet Name="Department" EntityType="Self.Department" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Employee" EntityType="Self.Employee" Schema="dbo" store:Type="Tables" />
