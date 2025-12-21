@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Display Name Multiple Times</title>
+    <link rel="stylesheet" href="Style1.css"/>
+
+</head>
+<body>
+
+<div class="container">
+    <h3>Display Name</h3>
+
+    <input type="text" id="name" placeholder="Enter your name">
+    <input type="number" id="count" placeholder="Enter number">
+
+    <button onclick="displayName()">Display</button>
+
+    <div id="output"></div>
+</div>
+
+<script>
+    function displayName() {
+        var name = document.getElementById("name").value;
+        var count = document.getElementById("count").value;
+        var outputDiv = document.getElementById("output");
+
+         outputDiv.innerHTML = "";
+
+         for (var i = 1; i <= count; i++) {
+            outputDiv.innerHTML += "<div class='name'>" + i + ". " + name + "</div>";
+        }
+    }
+</script>
+
+</body>
+</html>

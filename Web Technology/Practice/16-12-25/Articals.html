@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Articles</title>
+
+    <style>
+        /* Reset */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Body */
+        body {
+            font-family: 'Segoe UI', Tahoma, sans-serif;
+            background: linear-gradient(135deg, #c8f7f0, #e8fff9);
+            color: #2f3e46;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        /* Main Card */
+        .container {
+            width: 90%;
+            max-width: 900px;
+            background: #ffffff;
+            padding: 35px;
+            border-radius: 20px;
+            border: 4px solid #2a9d8f;
+            box-shadow: 0 15px 30px rgba(42,157,143,0.25);
+            text-align: center;
+        }
+
+        h1 {
+            color: #1b6f6a;
+            margin-bottom: 25px;
+            font-size: 2.5em;
+        }
+
+        /* Table */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+            border-radius: 15px;
+            overflow: hidden;
+        }
+
+        caption {
+            caption-side: top;
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #1b6f6a;
+            margin-bottom: 15px;
+        }
+
+        th, td {
+            padding: 15px;
+            text-align: center;
+        }
+
+        th {
+            background: linear-gradient(135deg, #2a9d8f, #52b788);
+            color: white;
+            font-size: 1.1em;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f0faf7;
+        }
+
+        tr:hover {
+            background-color: #d8f3ea;
+            transition: 0.3s;
+        }
+
+        td {
+            border-bottom: 1px solid #cdeee5;
+        }
+
+        /* Back Button */
+        .back-link {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 12px 25px;
+            font-weight: bold;
+            text-decoration: none;
+            color: #2a9d8f;
+            border: 2px solid #2a9d8f;
+            border-radius: 30px;
+            transition: 0.3s;
+        }
+
+        .back-link:hover {
+            background-color: #2a9d8f;
+            color: white;
+        }
+
+        /* Responsive */
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2em;
+            }
+
+            th, td {
+                padding: 10px;
+                font-size: 0.9em;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Welcome to Article Page</h1>
+
+    <table>
+        <caption>My Favourite Articles (Computers)</caption>
+        <thead>
+            <tr>
+                <th>Article Name</th>
+                <th>Created By</th>
+                <th>Year</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>HTML</td>
+                <td>Tim Berners-Lee</td>
+                <td>1990</td>
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td>Hakon Wium Lie</td>
+                <td>1994</td>
+            </tr>
+            <tr>
+                <td>JavaScript</td>
+                <td>Brendan Eich</td>
+                <td>1995</td>
+            </tr>
+            <tr>
+                <td>MS Office</td>
+                <td>Bill Gates</td>
+                <td>1989</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <a class="back-link" href="About.html">← Back to About</a>
+
+</div>
+
+</body>
+</html>

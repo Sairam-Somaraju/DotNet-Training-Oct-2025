@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Change H1 Background</title>
+    <script src="jquery.js"></script>
+    <style>
+        h1 {
+            padding: 10px;
+            color: white;
+        }
+        .back-link {
+    text-decoration: none;
+    color: blue;
+    font-size: 16px;
+    font-weight: bold;
+}
+.back-link:hover {
+    text-decoration: underline;
+}
+.back-link {
+    display: inline-block;
+    margin-top: 15px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background: linear-gradient(135deg, #4CAF50, #2E7D32);
+    padding: 10px 18px;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+}
+    </style>
+</head>
+<body>
+
+<div>
+    <h1>Heading 1 inside div</h1>
+    <p>Some paragraph</p>
+</div>
+
+<div>
+    <h1>Heading 2 inside div</h1>
+</div>
+
+<h1>Heading outside div</h1>
+
+<script>
+     $("div > h1").css("background-color", "blue");
+</script>
+<br><br>
+<a class="back-link" href="JQuery-9.html">Move to 9 One-></a>  
+
+</body>
+</html>

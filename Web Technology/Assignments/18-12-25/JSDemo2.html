@@ -1,0 +1,36 @@
+ 
+<html>
+<body>
+
+<div id="d1">india</div>
+<div id="d2">canada</div>
+<div id="d3">uk</div>
+<div id="d4">us</div>
+
+<img id="im1" src="C:\Users\sairamso\OneDrive - Infinite Computer Solutions (India) Limited\Pictures\Camera Roll\WIN_20251218_09_54_05_Pro.jpg">
+<script>
+// i want to print he content of div tag whos id is d1
+
+//var a =  document.getElementById("d1").innerText; // now value of a is india
+//alert("the content is " + a)
+//document.getElementById("d1").innerText = "lets lern javascript";
+//document.getElementById("im1").src="user.jpg"
+
+var res = document.getElementsByTagName("div")
+
+for(var i=0;i<res.length;i++)
+{
+alert(res[i].innerText)
+}
+
+a=10;
+b=20
+c=a+b;
+alert(c)
+</script>
+
+ 
+</body>
+
+
+</html>

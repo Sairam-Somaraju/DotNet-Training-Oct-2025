@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gallery</title>
+
+    <style>
+        body {
+            font-family: Tahoma;
+            background-color: #f0f8ff;
+            text-align: center;
+            color: rgb(255, 136, 0);
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            margin-bottom: 30px;
+        }
+
+        /* Gallery Layout */
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 25px;
+            max-width: 900px;
+            margin: auto;
+        }
+
+        /* Individual Card */
+        .card {
+            background-color: white;
+            padding: 15px;
+            border-radius: 15px;
+            border: 2px solid rgb(255, 179, 0);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 15px rgba(255, 136, 0, 0.3);
+        }
+
+        .card img {
+            width: 100%;
+            height: 180px;
+            object-fit: cover;
+            border-radius: 10px;
+            border: 3px solid rgb(255, 179, 0);
+        }
+
+        .caption {
+            margin-top: 10px;
+            font-size: 15px;
+            color: #444;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-top: 30px;
+            font-weight: bold;
+            text-decoration: none;
+            color: rgb(255, 136, 0);
+        }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>Image Gallery</h1>
+
+<div class="gallery">
+
+    <div class="card">
+        <img src="C:\Users\sairamso\Downloads\images\image5.jpg" 
+        alt="Nature Image">
+        <div class="caption">
+            Nature beauty with calm surroundings that bring peace.
+        </div>
+    </div>
+
+    <div class="card">
+        <img src="C:\Users\sairamso\Downloads\images\image6.jpg"
+        alt="Technology Image">
+        <div class="caption">
+            Modern technology representing digital growth.
+        </div>
+    </div>
+
+    <div class="card">
+        <img src="C:\Users\sairamso\Downloads\images\image7.jpg" alt="Creative Image">
+        <div class="caption">
+            Creative ideas and imagination for inspiration.
+        </div>
+    </div>
+
+</div>
+
+<a class="back-link" href="About.html">← Back to About</a>
+
+</body>
+</html>
+
+
+<!--"C:\Users\sairamso\Downloads\images\image5.jpg" 
+"C:\Users\sairamso\Downloads\images\image6.jpg"
+"C:\Users\sairamso\Downloads\images\image7.jpg"-->

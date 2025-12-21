@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\16-12-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{627968A5-41E4-4D86-BE5B-1CA53C831C7C}|16-12-25.csproj|c:\\infinite-oct2025\\ado.net\\practice\\16-12-25\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627968A5-41E4-4D86-BE5B-1CA53C831C7C}|16-12-25.csproj|solutionrelative:crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627968A5-41E4-4D86-BE5B-1CA53C831C7C}|16-12-25.csproj|c:\\infinite-oct2025\\ado.net\\practice\\16-12-25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627968A5-41E4-4D86-BE5B-1CA53C831C7C}|16-12-25.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627968A5-41E4-4D86-BE5B-1CA53C831C7C}|16-12-25.csproj|c:\\infinite-oct2025\\ado.net\\practice\\16-12-25\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{627968A5-41E4-4D86-BE5B-1CA53C831C7C}|16-12-25.csproj|solutionrelative:model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627968A5-41E4-4D86-BE5B-1CA53C831C7C}|16-12-25.csproj|c:\\infinite-oct2025\\ado.net\\practice\\16-12-25\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{627968A5-41E4-4D86-BE5B-1CA53C831C7C}|16-12-25.csproj|solutionrelative:model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627968A5-41E4-4D86-BE5B-1CA53C831C7C}|16-12-25.csproj|c:\\infinite-oct2025\\ado.net\\practice\\16-12-25\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{627968A5-41E4-4D86-BE5B-1CA53C831C7C}|16-12-25.csproj|solutionrelative:model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627968A5-41E4-4D86-BE5B-1CA53C831C7C}|16-12-25.csproj|c:\\infinite-oct2025\\ado.net\\practice\\16-12-25\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{627968A5-41E4-4D86-BE5B-1CA53C831C7C}|16-12-25.csproj|solutionrelative:model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRUD.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\16-12-25\\CRUD.cs",
+              "RelativeDocumentMoniker": "CRUD.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\16-12-25\\CRUD.cs",
+              "RelativeToolTip": "CRUD.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T05:43:06.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx.sql ",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\16-12-25\\Model1.edmx.sql",
+              "RelativeDocumentMoniker": "Model1.edmx.sql",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\16-12-25\\Model1.edmx.sql",
+              "RelativeToolTip": "Model1.edmx.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-16T05:34:23.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\16-12-25\\Model1.edmx",
+              "RelativeDocumentMoniker": "Model1.edmx",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\16-12-25\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-12-16T05:23:40.175Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\16-12-25\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ADO.Net\\Practice\\16-12-25\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T05:22:24.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
