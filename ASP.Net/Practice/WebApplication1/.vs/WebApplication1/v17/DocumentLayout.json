@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C73AEA-FD5B-4773-8BA5-D0ECD339D311}|WebApplication1.csproj|c:\\infinite-oct2025\\asp.net\\practice\\webapplication1\\viewstat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E4C73AEA-FD5B-4773-8BA5-D0ECD339D311}|WebApplication1.csproj|solutionrelative:viewstat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C73AEA-FD5B-4773-8BA5-D0ECD339D311}|WebApplication1.csproj|c:\\infinite-oct2025\\asp.net\\practice\\webapplication1\\viewstat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C73AEA-FD5B-4773-8BA5-D0ECD339D311}|WebApplication1.csproj|solutionrelative:viewstat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C73AEA-FD5B-4773-8BA5-D0ECD339D311}|WebApplication1.csproj|c:\\infinite-oct2025\\asp.net\\practice\\webapplication1\\viewstat.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C73AEA-FD5B-4773-8BA5-D0ECD339D311}|WebApplication1.csproj|solutionrelative:viewstat.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C73AEA-FD5B-4773-8BA5-D0ECD339D311}|WebApplication1.csproj|c:\\infinite-oct2025\\asp.net\\practice\\webapplication1\\statementmanagement.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C73AEA-FD5B-4773-8BA5-D0ECD339D311}|WebApplication1.csproj|solutionrelative:statementmanagement.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewStat.aspx.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication1\\ViewStat.aspx.cs",
+              "RelativeDocumentMoniker": "ViewStat.aspx.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication1\\ViewStat.aspx.cs",
+              "RelativeToolTip": "ViewStat.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:36:51.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewStat.aspx.designer.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication1\\ViewStat.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ViewStat.aspx.designer.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication1\\ViewStat.aspx.designer.cs",
+              "RelativeToolTip": "ViewStat.aspx.designer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:28:30.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewStat.aspx",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication1\\ViewStat.aspx",
+              "RelativeDocumentMoniker": "ViewStat.aspx",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication1\\ViewStat.aspx",
+              "RelativeToolTip": "ViewStat.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-22T16:17:02.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatementManagement.asax.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication1\\StatementManagement.asax.cs",
+              "RelativeDocumentMoniker": "StatementManagement.asax.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication1\\StatementManagement.asax.cs",
+              "RelativeToolTip": "StatementManagement.asax.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:16:39.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
