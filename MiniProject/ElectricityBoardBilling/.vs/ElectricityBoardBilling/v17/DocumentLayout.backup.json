@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\viewelectricitybill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:viewelectricitybill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\addelectricitybill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:addelectricitybill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\addelectricitybill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:addelectricitybill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\asp-backend\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:asp-backend\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|c:\\infinite-oct2025\\miniproject-\\electricityboardbilling\\asp-backend\\electricitybills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:asp-backend\\electricitybills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\asp-backend\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:asp-backend\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|c:\\infinite-oct2025\\miniproject-\\electricityboardbilling\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|c:\\infinite-oct2025\\miniproject-\\electricityboardbilling\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\viewelectricitybill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:viewelectricitybill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|c:\\infinite-oct2025\\miniproject-\\electricityboardbilling\\viewelectricitybill.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:viewelectricitybill.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|c:\\infinite-oct2025\\miniproject-\\electricityboardbilling\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|c:\\infinite-oct2025\\miniproject-\\electricityboardbilling\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{075DED11-AFD0-4475-8484-E3623A0D9EE2}|ElectricityBoardBilling.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddElectricityBill.aspx.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\AddElectricityBill.aspx.cs",
+              "RelativeDocumentMoniker": "AddElectricityBill.aspx.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\AddElectricityBill.aspx.cs",
+              "RelativeToolTip": "AddElectricityBill.aspx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T10:21:51.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBHandler.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\ASP-Backend\\DBHandler.cs",
+              "RelativeDocumentMoniker": "ASP-Backend\\DBHandler.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\ASP-Backend\\DBHandler.cs",
+              "RelativeToolTip": "ASP-Backend\\DBHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T09:54:44.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElectricityBills.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\ASP-Backend\\ElectricityBills.cs",
+              "RelativeDocumentMoniker": "ASP-Backend\\ElectricityBills.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\ASP-Backend\\ElectricityBills.cs",
+              "RelativeToolTip": "ASP-Backend\\ElectricityBills.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T10:55:33.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashBoard.aspx",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\DashBoard.aspx",
+              "RelativeDocumentMoniker": "DashBoard.aspx",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\DashBoard.aspx*",
+              "RelativeToolTip": "DashBoard.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-27T10:41:26.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddElectricityBill.aspx",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\AddElectricityBill.aspx",
+              "RelativeDocumentMoniker": "AddElectricityBill.aspx",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\AddElectricityBill.aspx",
+              "RelativeToolTip": "AddElectricityBill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-27T10:19:28.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewElectricityBill.aspx",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\ViewElectricityBill.aspx",
+              "RelativeDocumentMoniker": "ViewElectricityBill.aspx",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\ViewElectricityBill.aspx*",
+              "RelativeToolTip": "ViewElectricityBill.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-27T10:34:55.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ElectricityBoard.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\ASP-Backend\\ElectricityBoard.cs",
+              "RelativeDocumentMoniker": "ASP-Backend\\ElectricityBoard.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\ASP-Backend\\ElectricityBoard.cs",
+              "RelativeToolTip": "ASP-Backend\\ElectricityBoard.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T11:06:39.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\Login.aspx*",
+              "RelativeToolTip": "Login.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-27T10:17:07.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\Site.Master*",
+              "RelativeToolTip": "Site.Master*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-28T17:59:47.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\Site.Master.cs",
+              "RelativeDocumentMoniker": "Site.Master.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\Site.Master.cs",
+              "RelativeToolTip": "Site.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:01:09.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewElectricityBill.aspx.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\ViewElectricityBill.aspx.cs",
+              "RelativeDocumentMoniker": "ViewElectricityBill.aspx.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\ViewElectricityBill.aspx.cs",
+              "RelativeToolTip": "ViewElectricityBill.aspx.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T10:36:38.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashBoard.aspx.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\DashBoard.aspx.cs",
+              "RelativeDocumentMoniker": "DashBoard.aspx.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\DashBoard.aspx.cs",
+              "RelativeToolTip": "DashBoard.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T10:42:07.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T10:17:31.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewElectricityBill.aspx.designer.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\ViewElectricityBill.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ViewElectricityBill.aspx.designer.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\ViewElectricityBill.aspx.designer.cs",
+              "RelativeToolTip": "ViewElectricityBill.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:52:08.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-28T16:07:34.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:07:30.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MiniProject-\\ElectricityBoardBilling\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-27T09:52:51.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
