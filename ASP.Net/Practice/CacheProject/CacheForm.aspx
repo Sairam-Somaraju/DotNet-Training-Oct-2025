@@ -1,6 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CacheForm.aspx.cs" Inherits="CacheProject.CacheForm" %>
+<%-- <%@ OutputCache Duration="30" VaryByParam="None" Location="Client" %> --%>
 
-<!DOCTYPE html>
+ <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
@@ -37,8 +38,8 @@
         <asp:Label ID="lblmsg" runat="server"></asp:Label>
         <br /> <br />
 
-        Client Time :
-        <br /> <br />
+        Client Time :<br />
+&nbsp;<br /> <br />
     </form>
 </body>
 </html>

@@ -12,7 +12,15 @@ namespace CacheProject
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (!IsPostBack)
+            {
+                GetProductsByName("All");
+                Response.Cache.SetExpires(DateTime.Now.AddSeconds(30)); //duration
+                Response.Cache.VaryByParams["None"] = true; //varybyparam
+                Response.Cache.SetCacheability(HttpCacheability.ServerAndPrivate); //location
+            }
 
+            lblmsg.Text = "This Page is cached at : " + DateTime.Now.ToString();
         }
         private void GetProductsByName(string productname)
         {

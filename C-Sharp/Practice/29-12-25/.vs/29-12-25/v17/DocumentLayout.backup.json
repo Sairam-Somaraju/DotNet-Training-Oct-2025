@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\C-Sharp\\Practice\\29-12-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{536BB70D-66C0-4F9B-9A4C-D76C36F83DE8}|29-12-25.csproj|c:\\infinite-oct2025\\c-sharp\\practice\\29-12-25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536BB70D-66C0-4F9B-9A4C-D76C36F83DE8}|29-12-25.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536BB70D-66C0-4F9B-9A4C-D76C36F83DE8}|29-12-25.csproj|c:\\infinite-oct2025\\c-sharp\\practice\\29-12-25\\enumeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536BB70D-66C0-4F9B-9A4C-D76C36F83DE8}|29-12-25.csproj|solutionrelative:enumeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536BB70D-66C0-4F9B-9A4C-D76C36F83DE8}|29-12-25.csproj|c:\\infinite-oct2025\\c-sharp\\practice\\29-12-25\\structeg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536BB70D-66C0-4F9B-9A4C-D76C36F83DE8}|29-12-25.csproj|solutionrelative:structeg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StructEg2.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C-Sharp\\Practice\\29-12-25\\StructEg2.cs",
+              "RelativeDocumentMoniker": "StructEg2.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C-Sharp\\Practice\\29-12-25\\StructEg2.cs",
+              "RelativeToolTip": "StructEg2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:50:47.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnumEg.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C-Sharp\\Practice\\29-12-25\\EnumEg.cs",
+              "RelativeDocumentMoniker": "EnumEg.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C-Sharp\\Practice\\29-12-25\\EnumEg.cs",
+              "RelativeToolTip": "EnumEg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:49:51.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C-Sharp\\Practice\\29-12-25\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C-Sharp\\Practice\\29-12-25\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:49:06.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
