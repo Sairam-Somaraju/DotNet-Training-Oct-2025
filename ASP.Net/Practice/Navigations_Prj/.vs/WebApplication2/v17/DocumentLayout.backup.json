@@ -1,26 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication2\\",
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|WebApplication2.csproj|c:\\infinite-oct2025\\asp.net\\practice\\webapplication2\\redirectvstransfer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|WebApplication2.csproj|solutionrelative:redirectvstransfer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|c:\\infinite-oct2025\\asp.net\\practice\\navigations_prj\\crosspage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|solutionrelative:crosspage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|c:\\infinite-oct2025\\asp.net\\practice\\webapplication2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|c:\\infinite-oct2025\\asp.net\\practice\\navigations_prj\\crosspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|solutionrelative:crosspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|c:\\infinite-oct2025\\asp.net\\practice\\webapplication2\\redirectvstransfer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|solutionrelative:redirectvstransfer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|c:\\infinite-oct2025\\asp.net\\practice\\navigations_prj\\crosspageindex.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|solutionrelative:crosspageindex.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|c:\\infinite-oct2025\\asp.net\\practice\\webapplication2\\page1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|c:\\infinite-oct2025\\asp.net\\practice\\navigations_prj\\crosspageindex.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|solutionrelative:crosspageindex.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|solutionrelative:page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|c:\\infinite-oct2025\\asp.net\\practice\\navigations_prj\\page1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|solutionrelative:page1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|c:\\infinite-oct2025\\asp.net\\practice\\webapplication2\\page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|solutionrelative:page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\redirectvstransfer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|solutionrelative:redirectvstransfer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|WebApplication2.csproj|C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\redirectvstransfer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|WebApplication2.csproj|solutionrelative:redirectvstransfer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8C1CF14A-D00A-4FBC-A9BE-18122BFD9878}|Navigation_Prj.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,66 +55,117 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication2\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication2\\Web.config*",
-              "RelativeToolTip": "Web.config*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-12-29T10:33:02.788Z",
+              "Title": "CrossPage.aspx",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\CrossPage.aspx",
+              "RelativeDocumentMoniker": "CrossPage.aspx",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\CrossPage.aspx",
+              "RelativeToolTip": "CrossPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T11:23:56.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RedirectVsTransfer.aspx",
-              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication2\\RedirectVsTransfer.aspx",
-              "RelativeDocumentMoniker": "RedirectVsTransfer.aspx",
-              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication2\\RedirectVsTransfer.aspx",
-              "RelativeToolTip": "RedirectVsTransfer.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-29T10:17:23.092Z",
+              "Title": "CrossPage.aspx.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\CrossPage.aspx.cs",
+              "RelativeDocumentMoniker": "CrossPage.aspx.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\CrossPage.aspx.cs",
+              "RelativeToolTip": "CrossPage.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:24:00.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RedirectVsTransfer.aspx.cs",
-              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication2\\RedirectVsTransfer.aspx.cs",
-              "RelativeDocumentMoniker": "RedirectVsTransfer.aspx.cs",
-              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication2\\RedirectVsTransfer.aspx.cs",
-              "RelativeToolTip": "RedirectVsTransfer.aspx.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAawBoAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T10:20:17.113Z",
+              "Title": "CrossPageIndex.aspx",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\CrossPageIndex.aspx",
+              "RelativeDocumentMoniker": "CrossPageIndex.aspx",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\CrossPageIndex.aspx",
+              "RelativeToolTip": "CrossPageIndex.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T11:32:05.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Page1.aspx.cs",
-              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication2\\Page1.aspx.cs",
-              "RelativeDocumentMoniker": "Page1.aspx.cs",
-              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication2\\Page1.aspx.cs",
-              "RelativeToolTip": "Page1.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "CrossPageIndex.aspx.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\CrossPageIndex.aspx.cs",
+              "RelativeDocumentMoniker": "CrossPageIndex.aspx.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\CrossPageIndex.aspx.cs",
+              "RelativeToolTip": "CrossPageIndex.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T10:28:33.659Z",
+              "WhenOpened": "2025-12-30T11:39:47.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Page1.aspx",
-              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication2\\Page1.aspx",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\Page1.aspx",
               "RelativeDocumentMoniker": "Page1.aspx",
-              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\WebApplication2\\Page1.aspx",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\Page1.aspx",
               "RelativeToolTip": "Page1.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-12-29T10:25:08.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedirectVsTransfer.aspx.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\RedirectVsTransfer.aspx.cs",
+              "RelativeDocumentMoniker": "RedirectVsTransfer.aspx.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\RedirectVsTransfer.aspx.cs",
+              "RelativeToolTip": "RedirectVsTransfer.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:20:17.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page1.aspx.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\Page1.aspx.cs",
+              "RelativeDocumentMoniker": "Page1.aspx.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\Page1.aspx.cs",
+              "RelativeToolTip": "Page1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:28:33.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RedirectVsTransfer.aspx",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\RedirectVsTransfer.aspx",
+              "RelativeDocumentMoniker": "RedirectVsTransfer.aspx",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\RedirectVsTransfer.aspx",
+              "RelativeToolTip": "RedirectVsTransfer.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-29T10:17:23.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net\\Practice\\Navigations_Prj\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-29T10:33:02.788Z",
               "EditorCaption": ""
             }
           ]
