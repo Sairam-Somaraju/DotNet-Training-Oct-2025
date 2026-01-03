@@ -54,6 +54,22 @@ namespace First_MVC.Controllers
 
             return Json(emp,JsonRequestBehavior.AllowGet);
         }
+
+        //to check if the tempdata values are available here from the previous controller multiple requests
+        public ActionResult Test_TempData_across_controllers()
+        {
+            TempData.Keep();
+            return View(TempData["fruit"]);
+        }
+
+
+        //this action method is to test the tempdata values being made
+        //available even after traversing many requests, and without redirection
+        public ActionResult CheckTempdata()
+        {
+            TempData.Keep();
+            return View(TempData["stores"]);
+        }
     }
             
 }

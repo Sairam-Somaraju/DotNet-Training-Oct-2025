@@ -49,6 +49,41 @@ namespace First_MVC.Controllers
             };
             return View(empList);
         }
+        public ActionResult CustomerList()
+        {
+            List<Customers> lcs=new List<Customers>()
+            {
+                new Customers{Id=101,Name="Paddu",Description="sales"},
+                new Customers{Id=102,Name="Vinnu",Description="HR"},
+                new Customers{Id=103,Name="Gouthami",Description="Finance"},
+                new Customers{Id=104,Name="Mamatha",Description="Testing"},
+                new Customers{Id=105,Name="Triveni",Description="Developer"}
+            };
+            return View(lcs);
+        }
+        //4. To change the name of the view different from action method name 
+        //4.1 we can give action name selector and map it to different view name 
+
+
+        //[ActionName("Test")]
+        //public ActionResult DifferentViewName()
+        //{
+        //    ViewBag.sample = "Test View with different names ";
+        //    return View("DifferentViewName");//4.1
+        //}
+
+
+
+        //4.2 We can change the view name to suit the action name
+
+        [ActionName("Test")]
+        public ActionResult DifferentViewDescription()
+        {
+          
+            ViewBag.sample = "testing view with same names ";
+            ViewData["mydata"] = "data two";
+            return View();//4.2
+        }
 
     }
 }
