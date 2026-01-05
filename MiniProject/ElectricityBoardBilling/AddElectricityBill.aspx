@@ -1,11 +1,13 @@
+﻿ 
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="AddElectricityBill.aspx.cs" Inherits="ElectricityBoardBilling.AddElectricityBill" %>
+
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head >
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
     <title>Add Bill</title>
-   <style>
+      <style>
 
     body {
     font-family: "Segoe UI", Arial, sans-serif;
@@ -43,11 +45,10 @@ h3 {
 
 </style>
 </head>
+
 <body>
     <form id="form1" runat="server">
         <div class="card">
-    <h3>Add Electricity Bill</h3>
-
     Consumer Number:
     <asp:TextBox ID="txtCno" runat="server" />
      
@@ -72,7 +73,11 @@ h3 {
     
     <asp:Button ID="btnAdd" runat="server"  Text="Add Bill" OnClick="btnAdd_Click" />
 
-    <br /><br />
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                <asp:Button ID="Button1" runat="server"  Text="Back" CausesValidation="false" OnClick="Back_Click" />
+                <br /><br />
+
+
     <asp:Label ID="lblMsg" runat="server" ForeColor="Green" />
 </div>
     </form>

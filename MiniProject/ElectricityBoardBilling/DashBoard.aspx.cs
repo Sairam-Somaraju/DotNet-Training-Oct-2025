@@ -25,5 +25,11 @@ namespace ElectricityBoardBilling
             Response.Redirect("ViewElectricityBill.aspx");
 
         }
+
+        protected void BackButton(object sender, EventArgs e)
+        {
+            Response.Redirect("Login.aspx");
+
+        }
     }
 }

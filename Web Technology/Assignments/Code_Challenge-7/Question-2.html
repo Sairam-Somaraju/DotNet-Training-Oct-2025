@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Odd or Even</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+        }
+         .container {
+            text-align: center;
+        }
+        h2 {
+            text-align: center;
+        } 
+        p {
+            font-size: 16px;
+            margin: 5px 0;
+        }
+
+        .even {
+            color: blue;
+        }
+
+        .odd {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2>Odd or Even </h2>
+        <div id="output"></div>
+    </div>
+
+    <script>
+        let output = document.getElementById("output");
+
+        for (let i = 0; i <= 15; i++) 
+        {
+            if (i % 2 === 0) 
+            {
+                output.innerHTML += "<p class='even'>" + i + " is Even</p>";
+            } 
+            else
+            {
+                output.innerHTML += "<p class='odd'>" + i + " is Odd</p>";
+            }
+        }
+    </script>
+
+</body>
+</html>

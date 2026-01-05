@@ -1,4 +1,6 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="DashBoard.aspx.cs" Inherits="ElectricityBoardBilling.DashBoard" %>
+﻿ 
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="DashBoard.aspx.cs" Inherits="ElectricityBoardBilling.DashBoard"   %>
+
 
 <!DOCTYPE html>
 
@@ -72,6 +74,10 @@
             font-size: 12px;
             color: #777;
         }
+        #Button1
+        {
+            color:darkred;
+        }
 
     </style>
 </head>
@@ -84,6 +90,10 @@
             <asp:Button ID="btnAddBill" runat="server" Text="Add New Bill" CssClass="dashboard-btn" OnClick="btnAddBill_Click" />
             <asp:Button ID="btnViewBill" runat="server" Text="View Bills" CssClass="dashboard-btn" OnClick="btnViewBill_Click" />
 
+            <br />
+                        <asp:Button ID="Button1" runat="server" Text="Back"  OnClick="BackButton" />
+
+ 
         </div>
     </form>
 </body>

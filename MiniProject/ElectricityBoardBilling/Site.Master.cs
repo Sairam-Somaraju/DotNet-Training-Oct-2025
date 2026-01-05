@@ -12,5 +12,27 @@ namespace ElectricityBoardBilling
         protected void Page_Load(object sender, EventArgs e)
         {
         }
+
+        protected void lnkDashboard_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/DashBoard.aspx");
+        }
+
+        protected void lnkAddBill_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/AddElectricityBill.aspx");
+        }
+
+        protected void lnkViewBill_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/ViewElectricityBill.aspx");
+        }
+
+        protected void lnkLogout_Click(object sender, EventArgs e)
+        {
+            // Optional: Clear session or redirect to login
+            Session.Abandon();
+            Response.Redirect("~/Login.aspx");
+        }
     }
 }

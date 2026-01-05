@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Q7 - Add Index to List Items</title>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+ 
+<h2>
+    To add a tag at the beginning of the list item, containing the index of the list item.
+</h2>
+ 
+    <ul id="techItems">
+    <li>CSHARP</li>
+    <li>SQL</li>
+    <li>ADO</li>
+    </ul>
+ 
+<button id="addIndexBtn">Add Index</button>
+ 
+<script>
+$("#addIndexBtn").click(function () {
+
+    $("#techItems li").each(function (index) {
+
+        $(this).prepend(index + " ");
+
+    });
+
+});
+</script>
+ 
+</body>
+</html>
+
+ 

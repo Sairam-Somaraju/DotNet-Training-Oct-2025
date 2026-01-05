@@ -29,8 +29,17 @@ namespace ElectricityBoardBilling
                     lblMsg.Text = "Given units is invalid";
                     return;
                 }
+                ElectricityBills bill = new ElectricityBills(cno, name, units);
 
-                 ElectricityBills bill = new ElectricityBills(cno, name, units);
+
+                //if (ElectricityBoard.IsConsumerNumberExists(bill.ConsumerNumber))
+                //{
+                //    lblMsg.ForeColor = System.Drawing.Color.Red;
+                //    lblMsg.Text = "Consumer Number already exists.";
+                //    return;
+                //}
+
+               
 
                  ElectricityBoard.CalculateBill(bill);
 
@@ -53,6 +62,11 @@ namespace ElectricityBoardBilling
                 lblMsg.ForeColor = System.Drawing.Color.Red;
                 lblMsg.Text = "Error: " + ex.Message;
             }
+        }
+
+        protected void Back_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("DashBoard.aspx");
         }
     }
 }

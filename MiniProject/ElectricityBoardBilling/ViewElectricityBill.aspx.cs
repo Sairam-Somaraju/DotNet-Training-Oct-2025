@@ -65,5 +65,16 @@ namespace ElectricityBoardBilling
             }
 
         }
+
+        protected void backk_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("DashBoard.aspx");
+        }
+
+        protected void btnViewByConsumer_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("ViewBillByConsumer.aspx");
+
+        }
     }
 }

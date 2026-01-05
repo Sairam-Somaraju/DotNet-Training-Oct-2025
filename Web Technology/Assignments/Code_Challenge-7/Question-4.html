@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hide Odd Table Rows</title>
+
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 50%;
+            margin: 50px auto;
+        }
+        th{
+            color: red;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        h3{
+            text-align: center;
+        }
+
+        /* Hide odd rows */
+        tr:nth-child(even) {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<h3>Hide all Table Rows</h3>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Rajesh </td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Sairam</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Siva</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Venkat</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Teja</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Prudhvi</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Vinay</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Srikanth</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Charan</td>
+        </tr>
+    </table>
+
+</body>
+</html>

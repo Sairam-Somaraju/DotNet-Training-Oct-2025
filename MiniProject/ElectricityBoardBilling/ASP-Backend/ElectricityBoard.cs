@@ -9,6 +9,26 @@ namespace ElectricityBoardBilling.ASP_Backend
 {
     public class ElectricityBoard
     {
+        public static bool IsConsumerNumberExists(string consumerNumber)
+        {
+            SqlConnection con = DBHandler.GetConnection();
+
+            try
+            {
+                con.Open();
+                string query = "SELECT COUNT(*) FROM ElectricityBill WHERE consumer_number = @cno";
+                SqlCommand cmd = new SqlCommand(query, con);
+                cmd.Parameters.AddWithValue("@cno", consumerNumber);
+
+                int count = (int)cmd.ExecuteScalar();
+                return count > 0;
+            }
+            finally
+            {
+                con.Close();
+            }
+        }
+
         public static void CalculateBill(ElectricityBills ebill)
         {
             int units = ebill.UnitsConsumed;
@@ -42,15 +62,15 @@ namespace ElectricityBoardBilling.ASP_Backend
             try
             {
                 con.Open();
-                string query = "INSERT INTO ElectricityBill " + "(consumer_number, consumer_name, units_consumed, bill_amount) " + "VALUES (@cno, @name, @units, @bill)";
+                string query = "INSERT INTO ElectricityBill " + "(consumer_number, consumer_name, units_consumed, bill_amount,BillDate) " + "VALUES (@cno, @name, @units, @bill,@date)";
 
                 SqlCommand cmd = new SqlCommand(query, con); // to insert a new row in table
                 cmd.Parameters.AddWithValue("@cno", ebill.ConsumerNumber); //sends the values to database 
                 cmd.Parameters.AddWithValue("@name", ebill.ConsumerName);
                 cmd.Parameters.AddWithValue("@units", ebill.UnitsConsumed);
                 cmd.Parameters.AddWithValue("@bill", ebill.BillAmount);
-
-                 cmd.ExecuteNonQuery();
+                cmd.Parameters.AddWithValue("@date", DateTime.Now);
+                cmd.ExecuteNonQuery();
 
             }
             catch (Exception ex)

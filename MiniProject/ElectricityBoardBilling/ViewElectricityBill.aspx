@@ -1,3 +1,4 @@
+﻿ 
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ViewElectricityBill.aspx.cs" Inherits="ElectricityBoardBilling.ViewElectricityBill" %>
 
 <!DOCTYPE html>
@@ -6,6 +7,10 @@
 <head runat="server">
     <title>View Details</title>
     <style>
+        #gvBills td, #gvBills th {
+    white-space: nowrap;
+}
+
  body {
     font-family: "Segoe UI", Arial, sans-serif;
     background-color: #f4f6f9;
@@ -112,17 +117,25 @@ span {
 
             Enter Number of Bills:
             <asp:TextBox ID="txtCount" runat="server" />
-
             <asp:RequiredFieldValidator ID="rfvCount" runat="server"
                 ControlToValidate="txtCount"
                 ErrorMessage="Required"
                 ForeColor="Red" />
 
             <br /><br />
-
+                    <asp:Button ID="Button1" runat="server" Text="Back" CausesValidation="false"  OnClick="backk_Click" />  
+            &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
             <asp:Button ID="btnView" runat="server"
                 Text="View Bills"
-                OnClick="btnView_Click" />
+                OnClick="btnView_Click" /> &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+            <asp:Button ID="btnViewByConsumer" 
+    runat="server"
+    Text="View Bills by Consumer Number"
+    CausesValidation="false"
+    OnClick="btnViewByConsumer_Click" />
+
 
             <br /><br />
 
@@ -131,11 +144,13 @@ span {
                     <asp:BoundField DataField="consumer_number" HeaderText="Consumer Number" />
                     <asp:BoundField DataField="consumer_name" HeaderText="Consumer Name" />
                     <asp:BoundField DataField="units_consumed" HeaderText="Units Consumed" />
-                    <asp:BoundField DataField="bill_amount" HeaderText="Bill Amount" />
+<asp:BoundField DataField="bill_amount" HeaderText="Bill Amount" DataFormatString="{0:C}"> <ItemStyle Wrap="false" Width="120px" />
+        </asp:BoundField> <asp:BoundField DataField="BillDate" HeaderText="Bill Date" DataFormatString="{0:dd-MM-yyyy}" HtmlEncode="false"> <ItemStyle Wrap="false" Width="120px" />
+        </asp:BoundField>
                 </Columns>
             </asp:GridView>
-
-            <br />
+ 
+<br />
             <asp:Label ID="lblMsg" runat="server" ForeColor="Red" />
         </div>
     </form>

@@ -7,31 +7,35 @@
       "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_databasefirst\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_databasefirst\\views\\category\\getcategorybyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\category\\getcategorybyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_databasefirst\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_databasefirst\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_databasefirst\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_databasefirst\\views\\category\\getcategorydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\views\\category\\getcategorydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\category\\getcategorydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_databasefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_databasefirst\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,6 +55,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GetCategoryByName.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Category\\GetCategoryByName.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\GetCategoryByName.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Category\\GetCategoryByName.cshtml",
+              "RelativeToolTip": "Views\\Category\\GetCategoryByName.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T05:25:15.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Edit.cshtml",
@@ -58,18 +75,17 @@
               "RelativeToolTip": "Views\\Category\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T12:59:47.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T12:59:47.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
               "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-02T11:06:06.72Z",
               "EditorCaption": ""
@@ -82,14 +98,14 @@
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
               "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T11:14:07.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Delete.cshtml",
@@ -97,12 +113,11 @@
               "RelativeToolTip": "Views\\Category\\Delete.cshtml",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T11:47:47.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T11:47:47.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
@@ -110,25 +125,24 @@
               "RelativeToolTip": "Views\\Category\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T11:20:17.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T11:20:17.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "GetCategoryDetails.cshtml",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Category\\GetCategoryDetails.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\GetCategoryDetails.cshtml",
               "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Category\\GetCategoryDetails.cshtml",
               "RelativeToolTip": "Views\\Category\\GetCategoryDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-02T11:08:48.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -136,20 +150,18 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T10:40:37.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T10:40:37.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Models\\Model1.edmx",
               "RelativeDocumentMoniker": "Models\\Model1.edmx",
               "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Models\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "Models\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2026-01-02T10:31:57.862Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2026-01-02T10:31:57.862Z"
             }
           ]
         }
