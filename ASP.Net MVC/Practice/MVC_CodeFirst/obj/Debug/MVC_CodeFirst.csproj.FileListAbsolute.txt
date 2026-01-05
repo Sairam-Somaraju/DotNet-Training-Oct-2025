@@ -1,0 +1,2 @@
+C:\INFINITE-Oct2025\ASP.Net MVC\Practice\MVC_CodeFirst\obj\Debug\MVC_CodeFirst.csproj.AssemblyReference.cache
+C:\INFINITE-Oct2025\ASP.Net MVC\Practice\MVC_CodeFirst\obj\Debug\MVC_CodeFirst.csproj.CoreCompileInputs.cache

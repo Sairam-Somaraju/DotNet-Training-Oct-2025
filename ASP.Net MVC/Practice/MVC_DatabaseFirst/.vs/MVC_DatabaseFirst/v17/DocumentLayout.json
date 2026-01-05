@@ -3,11 +3,59 @@
   "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_databasefirst\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_databasefirst\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_databasefirst\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\views\\shipper\\sp_with_parameters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\shipper\\sp_with_parameters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\views\\shipper\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\shipper\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\views\\shipper\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\shipper\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\controllers\\navigationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:controllers\\navigationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\views\\navigation\\multipledata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\navigation\\multipledata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_databasefirst\\views\\category\\getcategorybyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\views\\category\\getcategorybyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1BE2AF73-BD66-4673-B624-0AC2865C19C0}|MVC_DatabaseFirst.csproj|solutionrelative:views\\category\\getcategorybyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -46,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,6 +103,166 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T16:50:37.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T12:21:17.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T11:03:25.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwHoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:09:33.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T11:25:38.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:54:33.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShipperController.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Controllers\\ShipperController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShipperController.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Controllers\\ShipperController.cs",
+              "RelativeToolTip": "Controllers\\ShipperController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T07:35:35.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sp_with_Parameters.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Shipper\\Sp_with_Parameters.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shipper\\Sp_with_Parameters.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Shipper\\Sp_with_Parameters.cshtml",
+              "RelativeToolTip": "Views\\Shipper\\Sp_with_Parameters.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T10:01:55.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Shipper\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shipper\\Index.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Shipper\\Index.cshtml",
+              "RelativeToolTip": "Views\\Shipper\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T09:37:55.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Shipper\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shipper\\Create.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Shipper\\Create.cshtml",
+              "RelativeToolTip": "Views\\Shipper\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T09:36:38.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavigationController.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Controllers\\NavigationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NavigationController.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Controllers\\NavigationController.cs",
+              "RelativeToolTip": "Controllers\\NavigationController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T07:11:34.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MultipleData.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Navigation\\MultipleData.cshtml",
+              "RelativeDocumentMoniker": "Views\\Navigation\\MultipleData.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Navigation\\MultipleData.cshtml",
+              "RelativeToolTip": "Views\\Navigation\\MultipleData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T07:17:44.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:14:07.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "GetCategoryByName.cshtml",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Category\\GetCategoryByName.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\GetCategoryByName.cshtml",
@@ -62,12 +270,11 @@
               "RelativeToolTip": "Views\\Category\\GetCategoryByName.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-04T05:25:15.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T05:25:15.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Edit.cshtml",
@@ -79,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
@@ -87,25 +294,11 @@
               "RelativeToolTip": "Views\\Category\\Index.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T11:06:06.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T11:06:06.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:14:07.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Delete.cshtml",
@@ -117,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
@@ -129,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "GetCategoryDetails.cshtml",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Views\\Category\\GetCategoryDetails.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\GetCategoryDetails.cshtml",
@@ -137,12 +330,11 @@
               "RelativeToolTip": "Views\\Category\\GetCategoryDetails.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T11:08:48.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T11:08:48.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -154,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_DatabaseFirst\\Models\\Model1.edmx",
               "RelativeDocumentMoniker": "Models\\Model1.edmx",
