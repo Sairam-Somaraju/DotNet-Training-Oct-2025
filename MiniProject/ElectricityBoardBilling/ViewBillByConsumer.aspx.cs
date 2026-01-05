@@ -50,7 +50,7 @@ namespace ElectricityBoardBilling
                     {
                         gvBills.DataSource = null;
                         gvBills.DataBind();
-                        lblMsg.Text = "No bills found for this consumer";
+                        lblMsg.Text = "No Bills found for this consumer";
                     }
                 }
                 finally
