@@ -9,7 +9,7 @@ namespace MVC_CodeFirst.Repository
     public  interface IProductRepository<T> where T:class
     {
         IEnumerable<T> GetAll(); //Get All Products
-        T GetByID(int id); // to get a particular Product
+        T GetByID(object Id); // to get a particular Product
         void Insert (T obj);
         void Update (T obj);
         void Delete (object Id);

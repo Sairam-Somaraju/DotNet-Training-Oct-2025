@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\views\\student\\standard_helper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|solutionrelative:views\\student\\standard_helper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\html_helpers_prj\\views\\customhelper\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|solutionrelative:views\\customhelper\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\html_helpers_prj\\controllers\\customhelpercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|solutionrelative:controllers\\customhelpercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\html_helpers_prj\\custom_helpers\\customextensionhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|solutionrelative:custom_helpers\\customextensionhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\html_helpers_prj\\custom_helpers\\customstatichelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|solutionrelative:custom_helpers\\customstatichelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\html_helpers_prj\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\views\\student\\studentdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|solutionrelative:views\\student\\studentdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\views\\student\\templateformodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|solutionrelative:views\\student\\templateformodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\views\\student\\strongly_typed_helper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|solutionrelative:views\\student\\strongly_typed_helper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\views\\student\\templatedhelper_ind.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|solutionrelative:views\\student\\templatedhelper_ind.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E8FB62-D368-4B92-A9D9-110069735533}|HTML_Helpers_Prj.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Views\\CustomHelper\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomHelper\\Index.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Views\\CustomHelper\\Index.cshtml",
+              "RelativeToolTip": "Views\\CustomHelper\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T12:50:20.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Standard_Helper.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Views\\Student\\Standard_Helper.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Standard_Helper.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Views\\Student\\Standard_Helper.cshtml",
+              "RelativeToolTip": "Views\\Student\\Standard_Helper.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T11:10:53.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomHelperController.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Controllers\\CustomHelperController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomHelperController.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Controllers\\CustomHelperController.cs",
+              "RelativeToolTip": "Controllers\\CustomHelperController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:50:13.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomExtensionHelpers.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Custom_Helpers\\CustomExtensionHelpers.cs",
+              "RelativeDocumentMoniker": "Custom_Helpers\\CustomExtensionHelpers.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Custom_Helpers\\CustomExtensionHelpers.cs",
+              "RelativeToolTip": "Custom_Helpers\\CustomExtensionHelpers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:43:51.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomStaticHelpers.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Custom_Helpers\\CustomStaticHelpers.cs",
+              "RelativeDocumentMoniker": "Custom_Helpers\\CustomStaticHelpers.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Custom_Helpers\\CustomStaticHelpers.cs",
+              "RelativeToolTip": "Custom_Helpers\\CustomStaticHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:36:13.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA7wDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T10:21:03.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Strongly_Typed_Helper.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Views\\Student\\Strongly_Typed_Helper.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Strongly_Typed_Helper.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Views\\Student\\Strongly_Typed_Helper.cshtml",
+              "RelativeToolTip": "Views\\Student\\Strongly_Typed_Helper.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T10:22:53.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDisplay.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Views\\Student\\StudentDisplay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\StudentDisplay.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Views\\Student\\StudentDisplay.cshtml",
+              "RelativeToolTip": "Views\\Student\\StudentDisplay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T11:00:17.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TemplateForModel.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Views\\Student\\TemplateForModel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\TemplateForModel.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Views\\Student\\TemplateForModel.cshtml",
+              "RelativeToolTip": "Views\\Student\\TemplateForModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T10:51:41.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TemplatedHelper_ind.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Views\\Student\\TemplatedHelper_ind.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\TemplatedHelper_ind.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Views\\Student\\TemplatedHelper_ind.cshtml",
+              "RelativeToolTip": "Views\\Student\\TemplatedHelper_ind.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T10:40:51.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\HTML_Helpers_Prj\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T10:10:01.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

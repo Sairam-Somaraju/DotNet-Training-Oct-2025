@@ -1,0 +1,8 @@
+C:\INFINITE-Oct2025\C-Sharp\Practice\Linq_Immediate_and_Deffered\bin\Debug\Linq_Immediate_and_Deffered.exe.config
+C:\INFINITE-Oct2025\C-Sharp\Practice\Linq_Immediate_and_Deffered\bin\Debug\Linq_Immediate_and_Deffered.exe
+C:\INFINITE-Oct2025\C-Sharp\Practice\Linq_Immediate_and_Deffered\bin\Debug\Linq_Immediate_and_Deffered.pdb
+C:\INFINITE-Oct2025\C-Sharp\Practice\Linq_Immediate_and_Deffered\obj\Debug\Linq_Immediate_and_Deffered.csproj.AssemblyReference.cache
+C:\INFINITE-Oct2025\C-Sharp\Practice\Linq_Immediate_and_Deffered\obj\Debug\Linq_Immediate_and_Deffered.csproj.CoreCompileInputs.cache
+C:\INFINITE-Oct2025\C-Sharp\Practice\Linq_Immediate_and_Deffered\obj\Debug\Linq_Immediate_and_Deffered.exe
+C:\INFINITE-Oct2025\C-Sharp\Practice\Linq_Immediate_and_Deffered\obj\Debug\Linq_Immediate_and_Deffered.pdb
+C:\INFINITE-Oct2025\C-Sharp\Practice\Linq_Immediate_and_Deffered\obj\Debug\Linq_Immediate_and_Deffered.exe.config

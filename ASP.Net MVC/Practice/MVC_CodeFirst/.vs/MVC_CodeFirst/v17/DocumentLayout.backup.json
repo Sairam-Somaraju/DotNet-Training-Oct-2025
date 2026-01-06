@@ -3,16 +3,67 @@
   "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_codefirst\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_codefirst\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_codefirst\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_codefirst\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_codefirst\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_codefirst\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|c:\\infinite-oct2025\\asp.net mvc\\practice\\mvc_codefirst\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\migrations\\202601060531445_columnadded_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:migrations\\202601060531445_columnadded_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Northwind/True/SqlTable/dbo.ProductsTable.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\migrations\\202601060502050_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:migrations\\202601060502050_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93969B-28A9-411C-B032-9F1638CB925F}|MVC_CodeFirst.csproj|solutionrelative:models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +73,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +81,192 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T07:26:43.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T06:49:56.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T06:43:45.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T06:33:28.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T04:37:33.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:56:32.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProductContext.cs",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Models\\ProductContext.cs",
               "RelativeDocumentMoniker": "Models\\ProductContext.cs",
               "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Models\\ProductContext.cs",
               "RelativeToolTip": "Models\\ProductContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T12:34:09.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-05T12:39:36.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "202601060531445_Columnadded_Product.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Migrations\\202601060531445_Columnadded_Product.cs",
+              "RelativeDocumentMoniker": "Migrations\\202601060531445_Columnadded_Product.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Migrations\\202601060531445_Columnadded_Product.cs",
+              "RelativeToolTip": "Migrations\\202601060531445_Columnadded_Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:31:48.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:27:03.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.ProductsTable.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Northwind/True/SqlTable/dbo.ProductsTable.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Northwind/True/SqlTable/dbo.ProductsTable.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-06T05:16:03.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "202601060502050_InitialCreate.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Migrations\\202601060502050_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\202601060502050_InitialCreate.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Migrations\\202601060502050_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\202601060502050_InitialCreate.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:02:10.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:01:37.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:48:51.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T04:50:39.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Sales.cs",
               "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Models\\Sales.cs",
               "RelativeDocumentMoniker": "Models\\Sales.cs",
@@ -51,21 +274,7 @@
               "RelativeToolTip": "Models\\Sales.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T12:30:39.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\INFINITE-Oct2025\\ASP.Net MVC\\Practice\\MVC_CodeFirst\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T12:27:03.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T12:30:39.984Z"
             }
           ]
         }

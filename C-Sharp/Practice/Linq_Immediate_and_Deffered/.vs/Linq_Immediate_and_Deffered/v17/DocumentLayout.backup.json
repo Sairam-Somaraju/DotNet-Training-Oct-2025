@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\C-Sharp\\Practice\\Linq_Immediate_and_Deffered\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAE787F-51D9-44D1-B3AE-A3A5A32588F6}|Linq_Immediate_and_Deffered.csproj|c:\\infinite-oct2025\\c-sharp\\practice\\linq_immediate_and_deffered\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAE787F-51D9-44D1-B3AE-A3A5A32588F6}|Linq_Immediate_and_Deffered.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAE787F-51D9-44D1-B3AE-A3A5A32588F6}|Linq_Immediate_and_Deffered.csproj|c:\\infinite-oct2025\\c-sharp\\practice\\linq_immediate_and_deffered\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAE787F-51D9-44D1-B3AE-A3A5A32588F6}|Linq_Immediate_and_Deffered.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C-Sharp\\Practice\\Linq_Immediate_and_Deffered\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C-Sharp\\Practice\\Linq_Immediate_and_Deffered\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:39:37.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\C-Sharp\\Practice\\Linq_Immediate_and_Deffered\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\C-Sharp\\Practice\\Linq_Immediate_and_Deffered\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:39:05.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

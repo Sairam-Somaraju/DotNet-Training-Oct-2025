@@ -20,7 +20,7 @@ namespace MVC_CodeFirst.Repository
         {
             return dbset.ToList();
         }
-        public T GetByID(int Id)
+        public T GetByID(object Id)
         {
             return dbset.Find(Id);
         }
