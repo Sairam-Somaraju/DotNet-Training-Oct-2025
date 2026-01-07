@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="ElectricityBoardBilling.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+ 
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <title>Electricity Board Billing</title>
+ 
+
+</head>
+<body>
+    <form runat="server">
+          <div style="background-color:#1e3a8a; padding:10px;">
+    <asp:LinkButton ID="lnkDashboard" runat="server" 
+        CausesValidation="false" 
+        ForeColor="White" 
+        OnClick="lnkDashboard_Click">Dashboard</asp:LinkButton>
+
+    &nbsp; | &nbsp;
+
+    <asp:LinkButton ID="lnkAddBill" runat="server" 
+        CausesValidation="false" 
+        ForeColor="White" 
+        OnClick="lnkAddBill_Click">Add Bill</asp:LinkButton>
+
+    &nbsp; | &nbsp;
+
+    <asp:LinkButton ID="lnkViewBill" runat="server" 
+        CausesValidation="false" 
+        ForeColor="White" 
+        OnClick="lnkViewBill_Click">View Bills</asp:LinkButton>
+
+    &nbsp; | &nbsp;
+
+    <asp:LinkButton ID="lnkLogout" runat="server" 
+        CausesValidation="false" 
+        ForeColor="White" 
+        OnClick="lnkLogout_Click">Logout</asp:LinkButton>
+</div>
+
+        <!-- PAGE CONTENT -->
+         
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+       
+    </form>
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/Scripts/bootstrap.js") %>
+    </asp:PlaceHolder>
+</body>
+</html>
+
