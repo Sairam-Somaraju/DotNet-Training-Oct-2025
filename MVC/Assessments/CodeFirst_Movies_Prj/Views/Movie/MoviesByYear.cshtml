@@ -1,0 +1,27 @@
+﻿@model IEnumerable<CodeFirst_Movies_Prj.Models.Movie>
+
+@{
+    ViewBag.Title = "MoviesByYear";
+}
+
+<h2>Movies Released in @ViewBag.Year</h2>
+
+@if (Model != null )
+{
+    foreach (var movie in Model)
+    {
+        <p>
+            <b>Movie ID:</b> @movie.Mid <br />
+            <b>Movie Name:</b> @movie.Moviename <br />
+            <b>Date of Release:</b> @movie.DateofRelease.ToShortDateString() <br />
+            <b>Director Name:</b> @movie.DirectorName
+        </p>
+        <hr />
+    }
+}
+else
+{
+    <p>No movies found for this year.</p>
+}
+
+

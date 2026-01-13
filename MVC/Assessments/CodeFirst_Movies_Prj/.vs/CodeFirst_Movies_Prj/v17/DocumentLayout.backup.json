@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|c:\\infinite-oct2025\\mvc\\assessments\\codefirst_movies_prj\\views\\movie\\moviesbydirectorname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|solutionrelative:views\\movie\\moviesbydirectorname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|c:\\infinite-oct2025\\mvc\\assessments\\codefirst_movies_prj\\views\\movie\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|solutionrelative:views\\movie\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|c:\\infinite-oct2025\\mvc\\assessments\\codefirst_movies_prj\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|c:\\infinite-oct2025\\mvc\\assessments\\codefirst_movies_prj\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|solutionrelative:views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|c:\\infinite-oct2025\\mvc\\assessments\\codefirst_movies_prj\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|solutionrelative:views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|c:\\infinite-oct2025\\mvc\\assessments\\codefirst_movies_prj\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|solutionrelative:views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|c:\\infinite-oct2025\\mvc\\assessments\\codefirst_movies_prj\\repositorys\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|solutionrelative:repositorys\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|c:\\infinite-oct2025\\mvc\\assessments\\codefirst_movies_prj\\repositorys\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|solutionrelative:repositorys\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|c:\\infinite-oct2025\\mvc\\assessments\\codefirst_movies_prj\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|solutionrelative:views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|c:\\infinite-oct2025\\mvc\\assessments\\codefirst_movies_prj\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|solutionrelative:views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|c:\\infinite-oct2025\\mvc\\assessments\\codefirst_movies_prj\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|c:\\infinite-oct2025\\mvc\\assessments\\codefirst_movies_prj\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805173CA-0345-4B6F-82E0-E56A744DC110}|CodeFirst_Movies_Prj.csproj|solutionrelative:models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesByDirectorName.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Views\\Movie\\MoviesByDirectorName.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\MoviesByDirectorName.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Views\\Movie\\MoviesByDirectorName.cshtml*",
+              "RelativeToolTip": "Views\\Movie\\MoviesByDirectorName.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T06:04:12.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesByYear.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Views\\Movie\\MoviesByYear.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\MoviesByYear.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Views\\Movie\\MoviesByYear.cshtml",
+              "RelativeToolTip": "Views\\Movie\\MoviesByYear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T06:03:19.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:36:54.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Views\\Movie\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Details.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Views\\Movie\\Details.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:30:42.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Views\\Movie\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Delete.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Views\\Movie\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:30:20.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwGkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:16:03.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Edit.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:21:58.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Views\\Movie\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Create.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Views\\Movie\\Create.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:18:27.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Repositorys\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Repositorys\\MovieRepository.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Repositorys\\MovieRepository.cs",
+              "RelativeToolTip": "Repositorys\\MovieRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:59:58.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Repositorys\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Repositorys\\IMovieRepository.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Repositorys\\IMovieRepository.cs",
+              "RelativeToolTip": "Repositorys\\IMovieRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:57:40.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Models\\MovieContext.cs",
+              "RelativeDocumentMoniker": "Models\\MovieContext.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Models\\MovieContext.cs",
+              "RelativeToolTip": "Models\\MovieContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:53:15.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assessments\\CodeFirst_Movies_Prj\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:50:35.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

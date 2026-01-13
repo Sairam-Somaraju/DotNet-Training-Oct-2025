@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Contact_Prj\\",
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|c:\\contact_prj\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|C:\\Contact_Prj\\migrations\\202601061815586_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|solutionrelative:migrations\\202601061815586_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|c:\\contact_prj\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|C:\\Contact_Prj\\repositorys\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|solutionrelative:repositorys\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|C:\\Contact_Prj\\repositorys\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\repositorys\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|solutionrelative:repositorys\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|C:\\Contact_Prj\\models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\repositorys\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|solutionrelative:repositorys\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|solutionrelative:models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|C:\\Contact_Prj\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|c:\\contact_prj\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|c:\\infinite-oct2025\\mvc\\assignments\\contact_assignment\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\migrations\\202601061815586_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|solutionrelative:migrations\\202601061815586_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|solutionrelative:views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|C:\\Contact_Prj\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BE23670-33AA-4AF9-92F2-AE6640CCCA54}|Contact_Prj.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,76 +54,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Contact_Prj\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Contact_Prj\\Controllers\\ContactController.cs*",
-              "RelativeToolTip": "Controllers\\ContactController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:32:25.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContactRepository.cs",
-              "DocumentMoniker": "C:\\Contact_Prj\\Repositorys\\ContactRepository.cs",
-              "RelativeDocumentMoniker": "Repositorys\\ContactRepository.cs",
-              "ToolTip": "C:\\Contact_Prj\\Repositorys\\ContactRepository.cs",
-              "RelativeToolTip": "Repositorys\\ContactRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwCQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:22:43.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IContactRepository.cs",
-              "DocumentMoniker": "C:\\Contact_Prj\\Repositorys\\IContactRepository.cs",
-              "RelativeDocumentMoniker": "Repositorys\\IContactRepository.cs",
-              "ToolTip": "C:\\Contact_Prj\\Repositorys\\IContactRepository.cs",
-              "RelativeToolTip": "Repositorys\\IContactRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T16:54:47.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "202601061815586_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Contact_Prj\\Migrations\\202601061815586_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\202601061815586_InitialCreate.cs",
-              "ToolTip": "C:\\Contact_Prj\\Migrations\\202601061815586_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\202601061815586_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T18:16:11.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Contact_Prj\\Views\\Contact\\Index.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Contact_Prj\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Views\\Contact\\Index.cshtml",
               "RelativeToolTip": "Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-07T16:46:33.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:32:25.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ContactContext.cs",
-              "DocumentMoniker": "C:\\Contact_Prj\\Models\\ContactContext.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Models\\ContactContext.cs",
               "RelativeDocumentMoniker": "Models\\ContactContext.cs",
-              "ToolTip": "C:\\Contact_Prj\\Models\\ContactContext.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Models\\ContactContext.cs",
               "RelativeToolTip": "Models\\ContactContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,37 +93,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Contact_Prj\\Models\\Contact.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "Models\\Contact.cs",
-              "ToolTip": "C:\\Contact_Prj\\Models\\Contact.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Models\\Contact.cs",
               "RelativeToolTip": "Models\\Contact.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswBMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T16:42:35.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Repositorys\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "Repositorys\\ContactRepository.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Repositorys\\ContactRepository.cs",
+              "RelativeToolTip": "Repositorys\\ContactRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:22:43.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Repositorys\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "Repositorys\\IContactRepository.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Repositorys\\IContactRepository.cs",
+              "RelativeToolTip": "Repositorys\\IContactRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T16:54:47.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "202601061815586_InitialCreate.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Migrations\\202601061815586_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\202601061815586_InitialCreate.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Migrations\\202601061815586_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\202601061815586_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T18:16:11.592Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Contact_Prj\\Views\\Contact\\Create.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Views\\Contact\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Contact\\Create.cshtml",
-              "ToolTip": "C:\\Contact_Prj\\Views\\Contact\\Create.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Views\\Contact\\Create.cshtml",
               "RelativeToolTip": "Views\\Contact\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-07T16:47:07.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T16:47:07.384Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Contact_Prj\\Migrations\\Configuration.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Contact_Prj\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025\\MVC\\Assignments\\Contact_Assignment\\Migrations\\Configuration.cs",
               "RelativeToolTip": "Migrations\\Configuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
