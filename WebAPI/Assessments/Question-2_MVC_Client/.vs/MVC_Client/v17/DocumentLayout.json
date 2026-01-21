@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INFINITE-Oct2025 - Copy\\Web API\\Practice\\MVC_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF07E4A6-62B5-4B89-BCA8-B39BD6872342}|MVC_Client.csproj|c:\\infinite-oct2025 - copy\\web api\\practice\\mvc_client\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF07E4A6-62B5-4B89-BCA8-B39BD6872342}|MVC_Client.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF07E4A6-62B5-4B89-BCA8-B39BD6872342}|MVC_Client.csproj|c:\\infinite-oct2025 - copy\\web api\\practice\\mvc_client\\views\\orders\\byemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF07E4A6-62B5-4B89-BCA8-B39BD6872342}|MVC_Client.csproj|solutionrelative:views\\orders\\byemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF07E4A6-62B5-4B89-BCA8-B39BD6872342}|MVC_Client.csproj|c:\\infinite-oct2025 - copy\\web api\\practice\\mvc_client\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF07E4A6-62B5-4B89-BCA8-B39BD6872342}|MVC_Client.csproj|solutionrelative:models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ByEmployee.cshtml",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025 - Copy\\Web API\\Practice\\MVC_Client\\Views\\Orders\\ByEmployee.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\ByEmployee.cshtml",
+              "ToolTip": "C:\\INFINITE-Oct2025 - Copy\\Web API\\Practice\\MVC_Client\\Views\\Orders\\ByEmployee.cshtml",
+              "RelativeToolTip": "Views\\Orders\\ByEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T05:52:07.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025 - Copy\\Web API\\Practice\\MVC_Client\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025 - Copy\\Web API\\Practice\\MVC_Client\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:34:50.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\INFINITE-Oct2025 - Copy\\Web API\\Practice\\MVC_Client\\Models\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderViewModel.cs",
+              "ToolTip": "C:\\INFINITE-Oct2025 - Copy\\Web API\\Practice\\MVC_Client\\Models\\OrderViewModel.cs",
+              "RelativeToolTip": "Models\\OrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:33:38.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

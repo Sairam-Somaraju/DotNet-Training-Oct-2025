@@ -1,0 +1,35 @@
+﻿@model List<MVC_Client.Models.OrderViewModel>
+
+    <h2>Employee Orders</h2>
+
+    @if (ViewBag.Error != null)
+    {
+        <p>@ViewBag.Error</p>
+    }
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Order ID</th>
+                <th>Order Date</th>
+                <th>Customer ID</th>
+                <th>Company Name</th>
+                <th>Contact Name</th>
+                <th>Employee Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model)
+            {
+                <tr>
+                    <td>@order.OrderID</td>
+                    <td>@order.OrderDate?.ToString("yyyy-MM-dd")</td>
+                    <td>@order.CustomerID</td>
+                    <td>@order.CustomerName</td>
+                    <td>@order.ContactName</td>
+                    <td>@order.EmployeeName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
