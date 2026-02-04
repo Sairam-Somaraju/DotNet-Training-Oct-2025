@@ -1,0 +1,158 @@
+﻿ 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(135deg, #eef2f7, #f9fbfd);
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    color: #1f2937;
+}
+
+/* ================= CONTAINER ================= */
+.register-container {
+    max-width: 1100px;
+    margin: 40px auto;
+    background: #fff;
+    border-radius: 22px;
+    display: flex;
+    overflow: hidden;
+    box-shadow: 0 25px 60px rgba(0,0,0,0.12);
+}
+
+/* ================= LEFT PANEL ================= */
+.left-panel {
+    width: 38%;
+    background: linear-gradient(160deg, #1e40af, #2563eb);
+    color: #fff;
+    display: flex;
+    align-items: center;
+/*    justify-content: center;*/
+    padding: 60px 40px;
+}
+
+.welcome-box {
+    text-align: center;
+}
+
+    .welcome-box h1 {
+        font-size: 42px;
+        font-weight: 700;
+        margin-bottom: 12px;
+    }
+
+    .welcome-box p {
+        font-size: 16px;
+        opacity: 0.9;
+    }
+
+/* ================= RIGHT PANEL ================= */
+.right-panel {
+    width: 62%;
+    padding: 35px 50px;
+}
+
+/* ================= TITLES ================= */
+.title {
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+.section-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 20px 0 10px;
+}
+
+/* ================= FORM ================= */
+.form-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+}
+
+.input {
+    width: 100%;
+    padding: 13px 14px;
+    border-radius: 10px;
+    border: 1px solid #d1d5db;
+    font-size: 14px;
+}
+
+    .input:focus {
+        outline: none;
+        border-color: #2563eb;
+        box-shadow: 0 0 0 3px rgba(37,99,235,0.15);
+    }
+
+.full {
+    grid-column: span 2;
+}
+
+/* ================= BUTTON ================= */
+.btn-area {
+    margin-top: 26px;
+    text-align: center;
+}
+
+.submit-btn {
+    padding: 14px 70px;
+    border-radius: 999px;
+    border: none;
+    background: linear-gradient(135deg, #2563eb, #1e40af);
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+    .submit-btn:hover {
+        box-shadow: 0 10px 22px rgba(37,99,235,0.35);
+        transform: translateY(-2px);
+    }
+
+/* ================= LINKS ================= */
+.form-links {
+    margin-top: 16px;
+    text-align: center;
+}
+
+    .form-links a {
+        color: #2563eb;
+        font-weight: 600;
+        text-decoration: none;
+    }
+
+/* ================= ERRORS ================= */
+.error {
+    color: #dc2626;
+    font-size: 12px;
+}
+
+.center {
+    text-align: center;
+}
+
+/* ================= RESPONSIVE ================= */
+@media (max-width: 900px) {
+    .register-container {
+        flex-direction: column;
+    }
+
+    .left-panel,
+    .right-panel {
+        width: 100%;
+    }
+
+    .form-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .full {
+        grid-column: span 1;
+    }
+}
